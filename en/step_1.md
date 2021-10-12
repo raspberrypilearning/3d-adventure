@@ -1,16 +1,16 @@
 ## Introduction
 
-You are going to create ... Your ... will need to meet the **project brief**.
+You are going to create a 3D game, virtual world or visual novel with a goal and one or more endings.
 
-<mark>this particular boxout optional: maybe a good idea if first path</mark>
+Your project will need to meet the **project brief**.
+
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
-</p>
+A <span style="color: #0faeb0">virtual world</span> is a computer environment where players can explore and interact with game objects including non-player characters. A <span style="color: #0faeb0">visual novel</span> is a genre of computer game featuring a story, character development and player choices.</p>
 
 You will:
-+ 
-+ 
-+ 
++ Build on what you have made in the Design projects to make a small game or experience.
++ Combine 3D game objects, Scripts, Animations, Materials, UI and Sounds. 
++ Share your project with others so they can try it out and you can get feedback.
 
 --- no-print ---
 
@@ -26,9 +26,9 @@ Description of what to do or think about when looking at the example.
 </div>
 <div>
 
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**Example name**: [See inside](url){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="link" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -38,20 +38,26 @@ Description of what to do or think about when looking at the example.
 
 --- /no-print ---
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A <span style="color: #0faeb0">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
+</p>
+
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
 ### PROJECT BRIEF: Project title
 <hr style="border-top: 2px solid black;">
 
-Brief explanation of aims of project. 
+Make a 3D game, virtual world or visual novel with a goal and one or more endings.
 
-Your ... should:
-+ ...
-+ ...
+Your project should:
++ Have an animated player character and one or more non-player characters or objects.
++ Have 3D scenery for the player to explore.
++ Tell the player when they have completed the goals with a win or lose message or an ending. 
 
-Your ... could:
-+ ...
-+ ...
+Your project could:
++ Have sound effects.
++ Use additional animations to make your game objects come to life.
++ Use text and/or buttons to communicate with the player and get input.
 </div>
 
 --- no-print ---
@@ -62,21 +68,6 @@ Your ... could:
 
 Think about ... as you investigate these example projects to get more ideas:
 
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
-</div>
-
-**Scratch blends in**: [See inside](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498968472/?autostart=false" frameborder="0"></iframe>
-</div>
-
-**A debugging story**: [See inside](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
-Click on the character and object to choose the ones you want in the story, then click on the Stage to turn the page.
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498960446/?autostart=false" frameborder="0"></iframe>
-</div>
 
 --- /task ---
 
