@@ -1,6 +1,6 @@
-title: invent-starter
+title: 3d adventure
 hero_image: images/banner.png
-description: invent-starter description
+description: Create a 3D game, virtual world or visual novel with a goal and one or more endings.
 version: 4
 listed: false
 copyedit: false
@@ -9,7 +9,7 @@ steps:
   - title: Introduction
   - title: Your idea
   - title: Build and test
+  - title: Reflect
   - title: Share
   - title: Upgrade your project
-  - title: Reflect
   - title: What next?

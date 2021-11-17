@@ -11,119 +11,22 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 ### Unity reference
 
---- collapse ---
+[[[unity-editor]]]
 
----
-title: Units and 3D coordinates in Unity
----
+[[[unity-projects-scenes]]]
 
-Unity uses X, Y and Z coordinates to position objects in 3D space. 
+[[[unity-scene-navigation]]]
 
-![](images/image.png)
-
-A unit, the length of a grid square, corresponds to 1 metre in the real world.
-
-If you add a plane and don't rotate it then, X and Z give the coordinates on the plane and Y gives the up and down coordinates from the plane. 
-
-Coordinates are given as a 'Vector3' or 3 numbers. The centre or default position of the world is (0,0,0).
-
-(0, 1, 0) is a position at the centre and 1 metre up. 
-
-(1, 0, 1) is a position on the plane (Y=0) and one unit away in the X and Z directions. 
-
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Moving in the scene editor
----
-
-Click on the right mouse button to use flythrough mode:
-+ WASD to move around
-+ QE for up and down
-+ Shift to go faster. 
-
-Use the scroll wheel on your mouse to zoom in and out. Your trackpad may also have a scroll motion.
-
-To move the scene around, hold the ALT key and the middle mouse button and then drag to move. You can also use the arrow keys to move around. 
-
-To focus on an object, click on the game object in the scene view and then click F.
-
-You can also click on an object in the Hierarchy and then click Shift-F to focus on that game object in the Scene view. 
-
-**Tip:** If you get lost, click on your Player in the Hierarchy and then Shift-F to focus on the player. Then you can use the scroll wheel to zoom out. 
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Unity editor
----
-
-![](images/image.png)
-
-+ Hierarchy Window - This is where you add and navigate the Game objects in your project. Game objects can had child objects that move with them. 
-+ Inspector Window - This is where you can edit the values and settings of items including game objects that you select in the Hierarchy.
-+ Projects Window - This is where you can see all the files included in your project. You can find Assets to use here. 
-
-It's really important to understand the difference between the Scene view and the Game view. 
-
-+ Scene View - Set the starting positions for all your objects.
-+ Game View - See how the game will look to a player and play your game in Playmode.
-
-Click the Play button to enter Playmode and run your game. Click the Play button again to exit Playmode so you can continue editting your project. 
-
-Important messages appear in the Console Window. This is where you can see Compiler errors (errors in your Script) and messages that you print using `Debug.Log()`.
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Projects and scenes
----
-
-
-
---- /collapse ---
-
---- /task ---
+[[[unity-scene-top-down]]]
 
 ### Creating a 3D world
 
+[[[unity-3D-coordinates]]]
 
---- collapse ---
+[[[unity-plane]]]
 
----
-title: Make and use a material
----
+[[[unity-3d-objects]]]
 
-
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Add a plane
----
-
-size
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Add 3D objects
----
-
-
-
---- /collapse ---
 
 --- collapse ---
 
@@ -135,33 +38,10 @@ E.g. Tree
 
 --- /collapse ---
 
---- collapse ---
+[[[unity-transform-tools]]]
 
----
-title: Transform tools
----
+[[[unity-material-with-texture]]]
 
-The Transform tools allow you to move around in 3D space in the Scene view and change the position, rotation and scale of your game objects.
-
-![](images/image.png)
-
-You can click on a tool to start using it, or use a keyboard shortcut:
-
-+ Q, Hand - Pan around
-+ W, Translate - Move a game object - drag the coloured arrows to move in X, Y, Z directions
-+ E, Rotate - Rotate a game object - drag the coloured circles to rotate in X, Y, Z directions
-+ R, Scale - Resize a game object - drag the coloured arrows to resize an object in X, Y, Z directions
-+ T, Rect - Change a 2D object such as text
-
-You can also change values in the Transform of a game object in the Inspector. 
-
-![](images/image.png)
-
-**Tip:** Sometimes it's easier to drag an object to roughly the right place using the Transform tools and then adjust the values to round numbers in the Transform for accurate positioning. 
-
-**Tip:** The directions are coloured coded in the Scene view. X is Red, Y is Green (up and down) and Z is Blue. 
-
---- /collapse ---
 
 --- collapse ---
 
@@ -176,25 +56,9 @@ title: Child game objects
 
 ### Add a player character
 
---- collapse ---
+[[[unity-player-character-controller]]]
 
----
-title: Add a player that can move
----
-
-
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Make the main camera follow the player
----
-
-
-
---- /collapse ---
+[[[unity-camera-follow-player]]]
 
 ### Add NPCs and other game objects
 
@@ -319,7 +183,7 @@ title: Use colliders with triggers to detect when a game object collides with an
 --- collapse ---
 
 ---
-title: Make a game object appear or disappear
+title: Make a GameObject appear or disappear
 ---
 
 
@@ -345,6 +209,13 @@ title: Organising scripts with methods (functions)
 
 --- /collapse ---
 
+### Sound and effects
+
+[[[unity-play-sound]]]
+
+[[[unity-add-soundtrack]]]
+
+[[[unity-particle-system]]]
 
 ### Text and UI
 
@@ -386,6 +257,7 @@ title: Enable and disable a canvas
 
 --- /collapse ---
 
+--- /task ---
 
 --- task ---
 

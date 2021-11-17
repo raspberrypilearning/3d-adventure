@@ -15,9 +15,9 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 What is the goal of your game, mission or story?
 
 It could be:
-- Completing a set of minigames and collecting all the coins. 
-- Finding out who the thief was in a mystery story. 
-- Completing multiple quests to find all the ingredients for a recipe. 
+- Complete a set of minigames and collecting all the coins. 
+- Talk to NPCs to find out who the thief was in a mystery story. 
+- Find the ingredients for a firework and then reward the Player with a Particle System.
 
 --- /task ---
 
@@ -31,8 +31,8 @@ Think about who you will make your project for (your **audience**).
 
 ### Game design
 
-- What camera angle do you want
-- How will the player controls work, will your player be able to walk backwards?
+- What camera angle do you want?
+- How will the player controls and camera work?
 - How will you use scenery, animations and sound effects to create the right atmosphere?
 - What are the important states and conditions for your game? What variables will you need to track these?
 
@@ -47,14 +47,12 @@ Open the project you have been working on during this path and create a new scen
 title: I don't have an existing project
 ---
 
-**3D adeventure** builds on the project created in the rest of the [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target=blank} path and it is recommended that you complete those first. 
-
-<mark> add the link to this starter when we have it </mark>
-
 If you have not compeleted the rest of the path, or are not able to open your previous project, you can download and import the [3D adventure](path){:target=
 _blank} template package that contains a collection of useful assets. 
 
 --- /collapse ---
+
+[[[unity-importing-a-package]]]
 
 --- collapse ---
 
@@ -117,22 +115,6 @@ Click on the existing colour to see a colour wheel where you can choose a colour
 ![The colour wheel pop up window with a blue medium opacity tint selected.](images/path.png)
 
 Return to the Unity editor and press the **Play** button to see your new tint in action.
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Connect your preferred Script editor
----
-
-When writing scripts for your game objects, the files will open using an external script editor. You can change the default to open in an editor of your choice. 
-
-Go to the **Unity** menu and select **Preferences**. Choose the **External Tools** menu and find the property called **External Script Editor**.
-
-Click on the drop-down menu and choose **Browse...** then find the tool you wish to use. 
-
-![The Preferences window with External Tools menu and the expanded External Script Editor dropdown highlighted.](images/path.png)
 
 --- /collapse ---
 

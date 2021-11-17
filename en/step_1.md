@@ -1,6 +1,6 @@
 ## Introduction
 
-You are going to create a 3D game, virtual world or visual novel with a goal and one or more endings.
+You are going to create a 3D adventure with a goal that the player needs to achieve. Your 3D adventure could be a game, a virtual world or a visual novel with a goal and one or more endings.
 
 Your project will need to meet the **project brief**.
 
@@ -8,8 +8,8 @@ Your project will need to meet the **project brief**.
 A <span style="color: #0faeb0">virtual world</span> is a computer environment where players can explore and interact with game objects including non-player characters. A <span style="color: #0faeb0">visual novel</span> is a genre of computer game featuring a story, character development and player choices.</p>
 
 You will:
-+ Build on what you have made in the Design projects to make a small game or experience.
-+ Combine 3D game objects, Scripts, Animations, Materials, UI and Sounds. 
++ Use your Unity skills to make a small game or experience.
++ Combine 3D GameObjects, Scripts, Animations, Materials, UI and Sounds. 
 + Share your project with others so they can try it out and you can get feedback.
 
 --- no-print ---
