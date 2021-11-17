@@ -4,6 +4,8 @@ You can build on the world and quest that you developed in the Design projects, 
 
 Use this step to plan your project. You can plan by just thinking, tinkering, drawing or writing, or however you like!
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"Computers are the best tool we have to think a thing, and then quickly bring that thing into the world in a way that other humans understand it." Timoni West, Unity </p>
+
 Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
 
 ### What is the goal ?
@@ -45,10 +47,12 @@ Open the project you have been working on during this path and create a new scen
 title: I don't have an existing project
 ---
 
-**invent starter** builds on the project created in the rest of the [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target=blank} path and it is recommended that you complete those first. 
+**3D adeventure** builds on the project created in the rest of the [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target=blank} path and it is recommended that you complete those first. 
 
-If you have not compeleted the rest of the path, or are not able to open your previous project, you can download and open the [invent starter](path){:target=
-} template project that contains a collection of useful assets. 
+<mark> add the link to this starter when we have it </mark>
+
+If you have not compeleted the rest of the path, or are not able to open your previous project, you can download and import the [3D adventure](path){:target=
+_blank} template package that contains a collection of useful assets. 
 
 --- /collapse ---
 
