@@ -1,6 +1,6 @@
 ## Build and test
 
-Now it's time to make your project. Start small, and add more to your project if you have time.
+Now it's time to make your 3D Adventure. Start small, and add more to your 3D adventure if you have time.
 
 Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
 
@@ -84,7 +84,7 @@ title: Adding a public variable and setting it in the Inspector
 When creating a variable in a script, you can declare it to be `public`. 
 
 ```
-public float patrolSpeed = 0.0F;
+public float patrolSpeed = 0.0f;
 ```
 
 This means that the variable will appear in the script component in the Inspector window. 
@@ -104,20 +104,29 @@ public GameObject Player;
 --- collapse ---
 
 ---
-title: Updating a variable in a script
----
-
-
-
---- /collapse ---
-
---- collapse ---
-
----
 title: Accessing another GameObject through a variable
 ---
 
+To access a variable from another GameObject, that variable must be public:
 
+```
+public class StarPlayer : MonoBehaviour
+{
+    public int stars = 0; 
+}
+```
+
+You can then create a variable with the type of the script that has the variable and set it using the Inspector. You will then be able to access the variable to read the value or update it. 
+
+```
+    StarPlayer player;
+
+    void AddStar()
+    {
+        player.stars += 1; // increase by 1
+    }
+
+```
 
 --- /collapse ---
 
@@ -206,7 +215,7 @@ else
   // code to run if condition1 and condition2 are False
 }
 ```
-
+ 
 You can use comparison operators to compare variables, numbers and strings: `<` `>` `==`.
 
 You can join conditions together using Boolean and `&&` and Boolen or `||`.
@@ -220,11 +229,9 @@ if(transform.position.x < minPosition || transform.position.x > maxPosition)
 
 --- /collapse ---
 
-
-
 ### Sound and effects
 
-co
+<mark>Add a sound</mark>
 
 [[[unity-add-soundtrack]]]
 
