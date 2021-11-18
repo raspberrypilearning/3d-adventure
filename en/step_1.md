@@ -21,7 +21,7 @@ You will:
 
 ### Try it
 
-Add a description of what to do or think about when looking at the example.
+Description of what to do or think about when looking at the example.
 
 </div>
 <div>
