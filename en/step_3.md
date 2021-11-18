@@ -27,31 +27,13 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[unity-3d-objects]]]
 
-
---- collapse ---
-
----
-title: Create an object from a model
----
-
-E.g. Tree
-
---- /collapse ---
+[[[unity-model-gameobject]]]
 
 [[[unity-transform-tools]]]
 
 [[[unity-material-with-texture]]]
 
-
---- collapse ---
-
----
-title: Child game objects
----
-
-
-
---- /collapse ---
+[[[unity-child-gameobjects]]]
 
 
 ### Add a player character
@@ -62,15 +44,7 @@ title: Child game objects
 
 ### Add NPCs and other game objects
 
---- collapse ---
-
----
-title: Create a game object that spins
----
-
-
-
---- /collapse ---
+[[[unity-gameobject-spin]]]
 
 --- collapse ---
 
@@ -78,7 +52,54 @@ title: Create a game object that spins
 title: Create a game object that patrols
 ---
 
+In the Inspector window for the GameObject, click ‘Add Component’ and choose **CharacterController**. Position and size the controller so it covers the whole of your patrolling GameObject.
 
+**Tip:** Press 'shift' + 'f' to focus on the patrolling GameObject in the Scene view .
+
+![desc](images/char-coll-dog.png)
+
+![desc](images/scene-coll-dog.png)
+
+Click on 'Add Component' and add a **Box Collider**. Adjust the Center Y and Size Y values so that other characters cannot walk through or climb on top of the patrolling GameObject:
+
+![desc](images/box-collider.png)
+
+**Tip:** You will also need to add Box Colliders to the any other GameObjects that could move into the patrol area.
+
+Click on 'Add Component' and add a ‘New script’ then give your script a sensible name.
+
+Double-click on your new script to open it in the code editor.
+
+Add variables to control the patrol speed and patrol area:
+
+```
+float patrolSpeed = 3.0F;
+float minPosition = -4.0F;
+float maxPosition = 4.0F;
+```
+
+Add code to the 'Update()' method to make the patrolling GameObject move forward until it reaches the maxPosition then turn `180` degrees and move forward again until the minPosition is reached then turn `180` degrees:
+
+```
+void Update()
+    {
+        CharacterController controller = GetComponent<CharacterController>();
+        Vector3 forward = transform.TransformDirection(Vector3.forward);
+        controller.SimpleMove(forward * patrolSpeed);
+
+        if (transform.position.x < maxPosition)
+        {
+            transform.Rotate(0, 180, 0); //turn around
+        }
+
+        if (transform.position.x > minPosition)
+        {
+            transform.Rotate(0, 180, 0); //turn around
+        }
+    }
+```
+
+![desc](images/car-patrol.png)
 
 --- /collapse ---
 
@@ -219,33 +240,13 @@ title: Organising scripts with methods (functions)
 
 ### Text and UI
 
---- collapse ---
+[[[unity-text-meshpro]]]
 
----
-title: Adding a name label to a game object
----
+[[[nity-add-position]]]
 
+[[[unity-npc-text]]]
 
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Showing text in a 2D overlay
----
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Updating UI text in a script
----
-
-
-
---- /collapse ---
+[[[unity-button-with-onclick]]]
 
 --- collapse ---
 
