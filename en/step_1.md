@@ -26,10 +26,7 @@ Add a description of what to do or think about when looking at the example.
 </div>
 <div>
 
-**Example name**: [See inside](url){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="link" frameborder="0"></iframe>
-</div>
+**Example name**: [See inside]
 
 </div>
 </div>
