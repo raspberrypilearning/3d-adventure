@@ -46,62 +46,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[unity-gameobject-spin]]]
 
---- collapse ---
-
----
-title: Create a game object that patrols
----
-
-In the Inspector window for the GameObject, click ‘Add Component’ and choose **CharacterController**. Position and size the controller so it covers the whole of your patrolling GameObject.
-
-**Tip:** Press 'shift' + 'f' to focus on the patrolling GameObject in the Scene view .
-
-![desc](images/char-coll-dog.png)
-
-![desc](images/scene-coll-dog.png)
-
-Click on 'Add Component' and add a **Box Collider**. Adjust the Center Y and Size Y values so that other characters cannot walk through or climb on top of the patrolling GameObject:
-
-![desc](images/box-collider.png)
-
-**Tip:** You will also need to add Box Colliders to the any other GameObjects that could move into the patrol area.
-
-Click on 'Add Component' and add a ‘New script’ then give your script a sensible name.
-
-Double-click on your new script to open it in the code editor.
-
-Add variables to control the patrol speed and patrol area:
-
-```
-float patrolSpeed = 3.0F;
-float minPosition = -4.0F;
-float maxPosition = 4.0F;
-```
-
-Add code to the 'Update()' method to make the patrolling GameObject move forward until it reaches the maxPosition then turn `180` degrees and move forward again until the minPosition is reached then turn `180` degrees:
-
-```
-void Update()
-    {
-        CharacterController controller = GetComponent<CharacterController>();
-        Vector3 forward = transform.TransformDirection(Vector3.forward);
-        controller.SimpleMove(forward * patrolSpeed);
-
-        if (transform.position.x < maxPosition)
-        {
-            transform.Rotate(0, 180, 0); //turn around
-        }
-
-        if (transform.position.x > minPosition)
-        {
-            transform.Rotate(0, 180, 0); //turn around
-        }
-    }
-```
-
-![desc](images/car-patrol.png)
-
---- /collapse ---
+[[[unity-patrolling-gameobject]]]
 
 --- collapse ---
 
@@ -242,7 +187,7 @@ title: Organising scripts with methods (functions)
 
 [[[unity-text-meshpro]]]
 
-[[[nity-add-position]]]
+[[[unity-add-position-text]]]
 
 [[[unity-npc-text]]]
 
@@ -323,15 +268,6 @@ Look at your game object in the Inspector. Is your new material added as a compo
 
 --- /collapse ---
 
---- collapse ---
-
----
-title: My game objects fall through the world when I run my scene
----
-
-
-
---- /collapse ---
 
 --- collapse ---
 
@@ -348,21 +284,22 @@ If your camera is following your player but not at the angle you want then you c
 --- collapse ---
 
 ---
-title: My script has no errors but my game objects don't move
+title: My script has no errors but its methods are not running
 ---
 
-Look at the game object in the Inspector. Have you attached the Script as a component?
+Make sure the script is attached to a GameObject. Have you attached the Script as a component?
 
+If the script uses `OnTriggerEnter` or `OnTriggerExit`, make sure the GameObject has a collider with 'Is Trigger' selected. 
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: My game objects pass through each other 
+title: My GameObjects pass through each other 
 ---
 
-Unity uses colliders to provide physics for your game objects. Make sure you have added a **Character Controller** or a **Collider** component to your game objects.
+Unity uses colliders to provide physics for your GameObjects. Make sure you have added a **Character Controller** or a **Collider** component to your GameObjects.
 
 --- /collapse ---
 
