@@ -19,6 +19,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[unity-scene-top-down]]]
 
+
 ### Creating a 3D world
 
 [[[unity-3D-coordinates]]]
@@ -42,31 +43,16 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[unity-camera-follow-player]]]
 
+
 ### Add NPCs and other game objects
 
 [[[unity-gameobject-spin]]]
 
 [[[unity-patrolling-gameobject]]]
 
---- collapse ---
+[[[unity-follower-gameobject]]]
 
----
-title: Create a game object that follows a player
----
-
-
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Adding tags to game objects
----
-
-
-
---- /collapse ---
+[[[unity-adding-tags]]]
 
 
 ### Collisions and triggers
@@ -184,39 +170,9 @@ title: Organising scripts with methods (functions)
 
 [[[unity-button-with-onclick]]]
 
---- collapse ---
+[[[unity-textmeshpro-variable]]]
 
----
-title: Change the message displayed by a TextMeshPro object
----
-
-```
-using UnityEngine;
-using TMPro;
-```
-
-```
-public TMP_Text messageText;
-```
-
-```
-void Update()
-{
-    messageText.SetText("New message");
-}
-```
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Display the current value of a variable using TextMeshPro
----
-
-
-
---- /collapse ---
+[[[unity-update-textmeshpro]]]
 
 --- /task ---
 
@@ -225,6 +181,8 @@ title: Display the current value of a variable using TextMeshPro
 **Test:** Show someone else your project and get their feedback. Do you want make any changes to your book? 
 
 --- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"Play your game while you’re writing it. Play it a lot. Play it over and over. Every time you start work on your game again, begin your work session by replaying." - Emily Short, Game Narrative Designer</p>
 
 --- task ---
 

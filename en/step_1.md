@@ -50,13 +50,13 @@ A <span style="color: #0faeb0">project brief</span> describes what a project mus
 Make a 3D game, virtual world or visual novel with a goal and one or more endings.
 
 Your project should:
-+ Have an animated player character and one or more non-player characters or objects.
++ Have a player character and one or more non-player characters or objects.
 + Have 3D scenery for the player to explore.
 + Tell the player when they have completed the goals with a win or lose message or an ending. 
 
 Your project could:
 + Have sound effects.
-+ Use additional animations to make your game objects come to life.
++ Use animations to make your game objects come to life.
 + Use text and/or buttons to communicate with the player and get input.
 </div>
 

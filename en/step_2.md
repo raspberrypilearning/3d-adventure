@@ -31,10 +31,12 @@ Think about who you will make your project for (your **audience**).
 
 ### Game design
 
+- How will the player know how to start and what to do next?
 - What camera angle do you want?
 - How will the player controls and camera work?
 - How will you use scenery, animations and sound effects to create the right atmosphere?
 - What are the important states and conditions for your game? What variables will you need to track these?
+- How will the player know when they have completed the game (by winning or losing or finding an ending)?
 
 ### Get started
 
