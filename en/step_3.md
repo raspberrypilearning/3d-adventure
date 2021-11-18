@@ -86,7 +86,7 @@ title: Use colliders to stop game objects occupying the same space
 --- collapse ---
 
 ---
-title: Adding a public variable and changing it in the Inspector
+title: Adding a public variable and setting it in the Inspector
 ---
 
 
@@ -106,22 +106,13 @@ title: Updating a variable in a script
 --- collapse ---
 
 ---
-title: Accessing another game object through a variable
+title: Accessing another GameObject through a variable
 ---
 
 
 
 --- /collapse ---
 
---- collapse ---
-
----
-title: Keeping track of game state with variables
----
-
-
-
---- /collapse ---
 
 ### Scripting game objects
 
@@ -196,7 +187,31 @@ title: Organising scripts with methods (functions)
 --- collapse ---
 
 ---
-title: Enable and disable a canvas
+title: Change the message displayed by a TextMeshPro object
+---
+
+```
+using UnityEngine;
+using TMPro;
+```
+
+```
+public TMP_Text messageText;
+```
+
+```
+void Update()
+{
+    messageText.SetText("New message");
+}
+```
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: Display the current value of a variable using TextMeshPro
 ---
 
 
@@ -217,24 +232,26 @@ title: Enable and disable a canvas
 
 Useful debug tips:
 - Turn on the Playmode tint so that you can tell when you are in game mode.
-- Click on 'Gizmos' in Playmode and then click on a game object in the inspector to view its colliders.
+- Click on 'Gizmos' in Playmode and then click on a game object in the Inspector to view its colliders.
 - Look at the values of public variables in the Inspector in Playmode to see how they are changing. 
-- Use `Debug.Log()` to print messages to the console to understand what's happening. 
-
-Here are some common bugs.
+- Use `Debug.Log()` to print messages to the Console to understand what's happening. 
+- Check the Console for errors. Script errors also appear in the bar at the bottom of the editor. 
 
 --- collapse ---
 
 ---
-title: I have a compiler error
+title: I have an error in the Console
 ---
 
-Missing semi colon
+Check 
 
-Mismatched brackets
++ '; expected' - check for a semicolon `;` at the end of each line of code. 
++ 'Newline in constant' - you missed a quote `"` from the end of a text string.
++ '} expected' - you should have a pair of open and close curly brackets `{}` around each method and around the class. Check that your curly brackets match.
++ ') expected' - make sure there's a closing `)` at the end of each Method call, before the semicolon.
++ 'Debug' does not contain a definition for 'log'' - C# is case sensitive, it needs to be `Log` with a capital `L`.
 
-Can't find gameobject
-
+**Tip:** Double-click on a code error in the Console to go straight to the line of code that is causing the problem.
 
 --- /collapse ---
 
@@ -251,7 +268,7 @@ Changes that you make in Playmode disappear when you exit Playmode. This is real
 --- collapse ---
 
 ---
-title: My game objects are not positioned correctly 
+title: My GameObjects are not positioned correctly 
 ---
 
 Use the Transform tools to move around the scene and check your game objects from other angles. To change the position, use the **Move** tool or amend the `x`, `y`, or `z` position values in the Inspector **Transform** component.
@@ -261,7 +278,7 @@ Use the Transform tools to move around the scene and check your game objects fro
 --- collapse ---
 
 ---
-title: My game object does not show my new material
+title: My GameObject does not show my new material
 ---
 
 Look at your game object in the Inspector. Is your new material added as a component? If not drag it across from the Project window. 
