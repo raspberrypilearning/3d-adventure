@@ -154,7 +154,7 @@ title: Organising scripts with methods (functions)
 
 ### Sound and effects
 
-[[[unity-play-sound]]]
+[[unity-play-sound]]
 
 [[[unity-add-soundtrack]]]
 
