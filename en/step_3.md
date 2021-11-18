@@ -155,7 +155,8 @@ public void PlayerReady()
 
 ```
 
-You c
+You can also use `SetActive` on all GameObjects with the same tag:
+
 ```
 public GameObject stars;
 
@@ -223,7 +224,7 @@ if(transform.position.x < minPosition || transform.position.x > maxPosition)
 
 ### Sound and effects
 
-[[unity-play-sound]]
+co
 
 [[[unity-add-soundtrack]]]
 
