@@ -60,10 +60,16 @@ You have built up some really useful skills. Here is a reminder to help you make
 --- collapse ---
 
 ---
-title: Use colliders to stop game objects occupying the same space
+title: Use Box Colliders to stop GameObjects occupying the same space
 ---
 
+A 'Box Collider' has a simple cube shape that can be sized and positioned to stop GameObjects occupying the same space. 
 
+To add a Box Collider, go to 'Add Component' in the Inspector window for your GameObject and select 'Box Collider'. 
+
+Change the values in the 'Center' and 'Size' properties until you are happy that they are above the ground and cover the whole of your GameObject. 
+
+Box Colliders will need to be added to all GameObjects that you want to avoid occupying the same space.
 
 --- /collapse ---
 
@@ -75,7 +81,23 @@ title: Use colliders to stop game objects occupying the same space
 title: Adding a public variable and setting it in the Inspector
 ---
 
+When creating a variable in a script, you can declare it to be `public`. 
 
+```
+public float patrolSpeed = 0.0F;
+```
+
+This means that the variable will appear in the script component in the Inspector window. 
+
+You can use the public variable during playmode to experiement with settings such as move and spin speed. Remember any changes you make in playmode will be lost when you exit playmode so take a note of your favourite values. 
+
+**Tip:** Be careful when setting public variables in the Inspector window as this will override values set in your script. 
+
+You can create many types of public variable such as `GameObject` variables so that you can access GameObjects from the scene:
+
+```
+public GameObject Player;
+```
 
 --- /collapse ---
 
@@ -102,55 +124,102 @@ title: Accessing another GameObject through a variable
 
 ### Scripting game objects
 
+[[[unity-print-console-debug]]]
+
+[[[unity-collider-trigger]]]
+
+
 --- collapse ---
 
 ---
-title: Print to the console
+title: Make GameObjects appear or disappear using SetActive
 ---
 
-Debug.Log()
+You can use `SetActive(true)` to activate a GameObject and `SetActive(false)` to deactive a GameObject so that it doesn't appear. 
+
+
+You can use `SetActive` on a public variable and drag a GameObject in the Inspector:
+
+```
+public GameObject heart;
+
+void Start()
+{
+    heart.setActive(false)
+}
+
+public void PlayerReady()
+{
+    heart.SetActive(true);
+}
+
+```
+
+You c
+```
+public GameObject stars;
+
+void Start()
+{
+    stars = GameObject.FindGameObjectsWithTag("Star");
+    foreach (var star in stars)
+    {
+        star.SetActive(false);
+    }
+}
+
+public void PlayerReady()
+{
+   IsReady = true;
+    ButtonTime = Time.time;
+    canvas.enabled = false;
+    foreach (var star in stars)
+    {
+        star.SetActive(true);
+    }
+}
+
+```
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: Use colliders with triggers to detect when a game object collides with another game object
+title: Conditional behaviour with if/else
 ---
 
+In C# you can use if/else statements to check conditions:
 
+```
+if (condition1)
+{
+  // code to run if condition1 is True
+} 
+else if (condition2) 
+{
+  // code to run if condition1 is false and condition2 is True
+} 
+else
+{
+  // code to run if condition1 and condition2 are False
+}
+```
+
+You can use comparison operators to compare variables, numbers and strings: `<` `>` `==`.
+
+You can join conditions together using Boolean and `&&` and Boolen or `||`.
+
+Example:
+
+if(transform.position.x < minPosition || transform.position.x > maxPosition)
+{
+    transform.Rotate(0, 180, 0); //turn around
+}
 
 --- /collapse ---
 
 
---- collapse ---
-
----
-title: Make a GameObject appear or disappear
----
-
-
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Checking conditions
----
-
-
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Organising scripts with methods (functions)
----
-
-
---- /collapse ---
 
 ### Sound and effects
 
