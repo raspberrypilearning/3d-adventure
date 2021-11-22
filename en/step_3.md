@@ -1,6 +1,6 @@
 ## Build and test
 
-Now it's time to make your project. Start small, and add more to your project if you have time.
+Now it's time to make your 3D Adventure. Start small, and add more to your 3D adventure if you have time.
 
 Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
 
@@ -57,21 +57,8 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 ### Collisions and triggers
 
---- collapse ---
+[[[unity-physics-colliders]]]
 
----
-title: Use Box Colliders to stop GameObjects occupying the same space
----
-
-A 'Box Collider' has a simple cube shape that can be sized and positioned to stop GameObjects occupying the same space. 
-
-To add a Box Collider, go to 'Add Component' in the Inspector window for your GameObject and select 'Box Collider'. 
-
-Change the values in the 'Center' and 'Size' properties until you are happy that they are above the ground and cover the whole of your GameObject. 
-
-Box Colliders will need to be added to all GameObjects that you want to avoid occupying the same space.
-
---- /collapse ---
 
 ### Variables and game states
 
@@ -84,7 +71,7 @@ title: Adding a public variable and setting it in the Inspector
 When creating a variable in a script, you can declare it to be `public`. 
 
 ```
-public float patrolSpeed = 0.0F;
+public float patrolSpeed = 0.0f;
 ```
 
 This means that the variable will appear in the script component in the Inspector window. 
@@ -104,20 +91,29 @@ public GameObject Player;
 --- collapse ---
 
 ---
-title: Updating a variable in a script
----
-
-
-
---- /collapse ---
-
---- collapse ---
-
----
 title: Accessing another GameObject through a variable
 ---
 
+To access a variable from another GameObject, that variable must be public:
 
+```
+public class StarPlayer : MonoBehaviour
+{
+    public int stars = 0; 
+}
+```
+
+You can then create a variable with the type of the script that has the variable and set it using the Inspector. You will then be able to access the variable to read the value or update it. 
+
+```
+    StarPlayer player;
+
+    void AddStar()
+    {
+        player.stars += 1; // increase by 1
+    }
+
+```
 
 --- /collapse ---
 
@@ -128,106 +124,19 @@ title: Accessing another GameObject through a variable
 
 [[[unity-collider-trigger]]]
 
+[[[unity-setactive]]]
 
---- collapse ---
-
----
-title: Make GameObjects appear or disappear using SetActive
----
-
-You can use `SetActive(true)` to activate a GameObject and `SetActive(false)` to deactive a GameObject so that it doesn't appear. 
-
-
-You can use `SetActive` on a public variable and drag a GameObject in the Inspector:
-
-```
-public GameObject heart;
-
-void Start()
-{
-    heart.setActive(false)
-}
-
-public void PlayerReady()
-{
-    heart.SetActive(true);
-}
-
-```
-
-You c
-```
-public GameObject stars;
-
-void Start()
-{
-    stars = GameObject.FindGameObjectsWithTag("Star");
-    foreach (var star in stars)
-    {
-        star.SetActive(false);
-    }
-}
-
-public void PlayerReady()
-{
-   IsReady = true;
-    ButtonTime = Time.time;
-    canvas.enabled = false;
-    foreach (var star in stars)
-    {
-        star.SetActive(true);
-    }
-}
-
-```
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Conditional behaviour with if/else
----
-
-In C# you can use if/else statements to check conditions:
-
-```
-if (condition1)
-{
-  // code to run if condition1 is True
-} 
-else if (condition2) 
-{
-  // code to run if condition1 is false and condition2 is True
-} 
-else
-{
-  // code to run if condition1 and condition2 are False
-}
-```
-
-You can use comparison operators to compare variables, numbers and strings: `<` `>` `==`.
-
-You can join conditions together using Boolean and `&&` and Boolen or `||`.
-
-Example:
-
-if(transform.position.x < minPosition || transform.position.x > maxPosition)
-{
-    transform.Rotate(0, 180, 0); //turn around
-}
-
---- /collapse ---
-
+[[[unity-conditional-scripting]]]
 
 
 ### Sound and effects
 
-[[unity-play-sound]]
+[[[unity-play-sound]]]
 
 [[[unity-add-soundtrack]]]
 
 [[[unity-particle-system]]]
+
 
 ### Text and UI
 
@@ -244,6 +153,8 @@ if(transform.position.x < minPosition || transform.position.x > maxPosition)
 [[[unity-update-textmeshpro]]]
 
 --- /task ---
+
+
 
 --- task ---
 
