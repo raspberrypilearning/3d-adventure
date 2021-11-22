@@ -57,21 +57,8 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 ### Collisions and triggers
 
---- collapse ---
+[[[unity-physics-colliders]]]
 
----
-title: Use Box Colliders to stop GameObjects occupying the same space
----
-
-A 'Box Collider' has a simple cube shape that can be sized and positioned to stop GameObjects occupying the same space. 
-
-To add a Box Collider, go to 'Add Component' in the Inspector window for your GameObject and select 'Box Collider'. 
-
-Change the values in the 'Center' and 'Size' properties until you are happy that they are above the ground and cover the whole of your GameObject. 
-
-Box Colliders will need to be added to all GameObjects that you want to avoid occupying the same space.
-
---- /collapse ---
 
 ### Variables and game states
 
@@ -137,105 +124,19 @@ You can then create a variable with the type of the script that has the variable
 
 [[[unity-collider-trigger]]]
 
+[[[unity-setactive]]]
 
---- collapse ---
+[[[unity-conditional-scripting]]]
 
----
-title: Make GameObjects appear or disappear using SetActive
----
-
-You can use `SetActive(true)` to activate a GameObject and `SetActive(false)` to deactive a GameObject so that it doesn't appear. 
-
-
-You can use `SetActive` on a public variable and drag a GameObject in the Inspector:
-
-```
-public GameObject heart;
-
-void Start()
-{
-    heart.setActive(false)
-}
-
-public void PlayerReady()
-{
-    heart.SetActive(true);
-}
-
-```
-
-You can also use `SetActive` on all GameObjects with the same tag:
-
-```
-public GameObject stars;
-
-void Start()
-{
-    stars = GameObject.FindGameObjectsWithTag("Star");
-    foreach (var star in stars)
-    {
-        star.SetActive(false);
-    }
-}
-
-public void PlayerReady()
-{
-   IsReady = true;
-    ButtonTime = Time.time;
-    canvas.enabled = false;
-    foreach (var star in stars)
-    {
-        star.SetActive(true);
-    }
-}
-
-```
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Conditional behaviour with if/else
----
-
-In C# you can use if/else statements to check conditions:
-
-```
-if (condition1)
-{
-  // code to run if condition1 is True
-} 
-else if (condition2) 
-{
-  // code to run if condition1 is false and condition2 is True
-} 
-else
-{
-  // code to run if condition1 and condition2 are False
-}
-```
- 
-You can use comparison operators to compare variables, numbers and strings: `<` `>` `==`.
-
-You can join conditions together using Boolean and `&&` and Boolen or `||`.
-
-Example:
-
-if(transform.position.x < minPosition || transform.position.x > maxPosition)
-{
-    transform.Rotate(0, 180, 0); //turn around
-}
-
---- /collapse ---
 
 ### Sound and effects
 
-<mark>Add a sound</mark>
+[[[unity-play-sound]]]
 
 [[[unity-add-soundtrack]]]
 
 [[[unity-particle-system]]]
+
 
 ### Text and UI
 
@@ -252,6 +153,8 @@ if(transform.position.x < minPosition || transform.position.x > maxPosition)
 [[[unity-update-textmeshpro]]]
 
 --- /task ---
+
+
 
 --- task ---
 
