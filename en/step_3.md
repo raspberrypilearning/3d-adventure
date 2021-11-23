@@ -176,12 +176,19 @@ Useful debug tips:
 - Check the Console for errors. Script errors also appear in the bar at the bottom of the editor. 
 
 [[[unity-console-error]]]
+
 [[[unity-changes-gone]]]
+
 [[[unity-assign-material]]]
+
 [[[unity-camera-error]]]
+
 [[[unity-method-absent]]]
+
 [[[unity-collider-error]]]
+
 [[[unity-trigger-error]]]
+
 [[[unity-show-variables]]]
 
 --- collapse ---
