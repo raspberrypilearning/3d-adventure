@@ -175,100 +175,14 @@ Useful debug tips:
 - Use `Debug.Log()` to print messages to the Console to understand what's happening. 
 - Check the Console for errors. Script errors also appear in the bar at the bottom of the editor. 
 
---- collapse ---
-
----
-title: I have an error in the Console
----
-
-Check 
-
-+ '; expected' - check for a semicolon `;` at the end of each line of code. 
-+ 'Newline in constant' - you missed a quote `"` from the end of a text string.
-+ '} expected' - you should have a pair of open and close curly brackets `{}` around each method and around the class. Check that your curly brackets match.
-+ ') expected' - make sure there's a closing `)` at the end of each Method call, before the semicolon.
-+ 'Debug' does not contain a definition for 'log'' - C# is case sensitive, it needs to be `Log` with a capital `L`.
-
-**Tip:** Double-click on a code error in the Console to go straight to the line of code that is causing the problem.
-
---- /collapse ---
-
---- collapse ---
-
----
-title: I made some changes but they have gone
----
-
-Changes that you make in Playmode disappear when you exit Playmode. This is really useful when you just want to try something out. But, it's easy to accidentally make changes in Playmode - make sure you exit Playmode before making changes that you want to keep.
-
---- /collapse ---
-
---- collapse ---
-
----
-title: My GameObjects are not positioned correctly 
----
-
-Use the Transform tools to move around the scene and check your game objects from other angles. To change the position, use the **Move** tool or amend the `x`, `y`, or `z` position values in the Inspector **Transform** component.
-
---- /collapse ---
-
---- collapse ---
-
----
-title: My GameObject does not show my new material
----
-
-Look at your game object in the Inspector. Is your new material added as a component? If not drag it across from the Project window. 
-
---- /collapse ---
-
-
---- collapse ---
-
----
-title: My Main Camera doesn't follow my player correctly
----
-
-Go to the **Hierarchy** window and make sure your Main Camera is positioned as a child of your player.
-
-If your camera is following your player but not at the angle you want then you can look at the **Transform** component in the Main Camera's Inspection and update the `x`, `y`, or `z` position until you find an angle you are happy with. 
-
---- /collapse ---
-
---- collapse ---
-
----
-title: My script has no errors but its methods are not running
----
-
-Make sure the script is attached to a GameObject. Have you attached the Script as a component?
-
-If the script uses `OnTriggerEnter` or `OnTriggerExit`, make sure the GameObject has a collider with 'Is Trigger' selected. 
-
---- /collapse ---
-
---- collapse ---
-
----
-title: My GameObjects pass through each other 
----
-
-Unity uses colliders to provide physics for your GameObjects. Make sure you have added a **Character Controller** or a **Collider** component to your GameObjects.
-
---- /collapse ---
-
---- collapse ---
-
----
-title: My script doesn't trigger when I collide with another game object
----
-
-Make sure any characters/objects that you want to collide with have a **Box Collider** with `Is Trigger` selected.
-
-If your characters/objects also have a **Character Controller** for collision detection you need to make sure that the **Box Collider** that triggers your script is of bigger scale so that you can get close enough to trigger it.  
-
---- /collapse ---
+[[[unity-console-error]]]
+[[[unity-changes-gone]]]
+[[[unity-assign-material]]]
+[[[unity-camera-error]]]
+[[[unity-method-absent]]]
+[[[unity-collider-error]]]
+[[[unity-trigger-error]]]
+[[[unity-show-variables]]]
 
 --- collapse ---
 
@@ -281,16 +195,6 @@ Think about the coordinates in your script:
 + Are you using the positive and negative values you need for your movement range.
 
 Look at the character in the Inspector. Is your character rotated to face in the direction you wish to move?  
-
---- /collapse ---
-
---- collapse ---
-
----
-title: My variables do not appear in the Inspector
----
-
-Check that your variables are set up as **public** variables so that you can view them and edit their values in the Inspector. 
 
 --- /collapse ---
 
