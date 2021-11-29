@@ -2,7 +2,7 @@
 
 Now it's time to make your 3D Adventure. Start small, and add more to your 3D adventure if you have time.
 
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
+![](images/image.png)
 
 
 --- task ---
