@@ -49,8 +49,7 @@ Open the project you have been working on during this path and create a new scen
 title: I don't have an existing project
 ---
 
-If you have not compeleted the rest of the path, or are not able to open your previous project, you can download and import the [3D adventure](path){:target=
-_blank} template package that contains a collection of useful assets. 
+If you have not compeleted the rest of the path, or are not able to open your previous project, you can download and import the [3D adventure](path){:target=_blank} template package that contains a collection of useful assets. 
 
 --- /collapse ---
 
@@ -76,49 +75,9 @@ Go to the **File** menu and select **New Scene**. Select the `Basic (Built-in)` 
 
 Personalise the Unity editor to create the most efficient environment for you to create your project. 
 
---- collapse ---
+[[[unity-customise-editor]]]
 
----
-title: Customise your Unity editor layout
----
-
-You can customise the Unity editor to have the layout that is easiest for you to navigate. 
-
-Unity has a number of predefined layouts that you can chose from by clicking on the **Layout** dropdown box and selecting your chosen view. 
-
-![The expanded Layout dropdown box in the top-right corner of the Unity editor showing predifined layout options.](images/path.png)
-
-You can customise these layouts by clicking on the tab at the top of any of the Scene view and Game view, or Hierachy, Project and Inspector windows and dragging them to a new position. 
-
-![An animated gif showing the Gane view being selected and dragged to a new position.](images/path.gif)
-
-After customising a layout you can save it to use again later by clicking on the **Layout** dropdown box and selecting **Save Layout...**.
-
-![The Layout drop down with the Save Layout option highlighted.](images/path.png)
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Add Playmode tint to show when your project is running
----
-
-It is useful to add a colour tint to the editor whilst it is in Playmode. This makes it easy to tell whether your scene is running or not. 
-
-![Side my side image of the Unity editor without tint and with tint.](images/path.png)
-
-To set a tint, go to the **Unity** menu and select **Preferences**. Choose the **Colours** menu and find the property called **Playmode tint**.
-
-![The Preferences window with Colour menu expanded and Playmode tint highlighted.](images/path.png)
-
-Click on the existing colour to see a colour wheel where you can choose a colour and opacity level.
-
-![The colour wheel pop up window with a blue medium opacity tint selected.](images/path.png)
-
-Return to the Unity editor and press the **Play** button to see your new tint in action.
-
---- /collapse ---
+[[[unity-playmode-tint]]]
 
 --- /task ---
 

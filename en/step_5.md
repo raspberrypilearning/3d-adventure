@@ -6,7 +6,7 @@ You can build your project as a 'WebGL' project and upload it to a website so ot
 
 [[[webgl-build]]]
 
-[[[unity-sharing]]]
+[[[webgl-host]]]
 
 You could also take a screenshot or make a video of your project. 
 

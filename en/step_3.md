@@ -39,9 +39,13 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 ### Add a player character
 
+[[[unity-npc-model]]]
+
 [[[unity-player-character-controller]]]
 
 [[[unity-camera-follow-player]]]
+
+[[[unity-animation]]]
 
 
 ### Add NPCs and other game objects
@@ -59,70 +63,18 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[unity-physics-colliders]]]
 
+[[[unity-collider-trigger]]]
 
 ### Variables and game states
 
---- collapse ---
+[[[unity-variable-inspector]]]
 
----
-title: Adding a public variable and setting it in the Inspector
----
-
-When creating a variable in a script, you can declare it to be `public`. 
-
-```
-public float patrolSpeed = 0.0f;
-```
-
-This means that the variable will appear in the script component in the Inspector window. 
-
-You can use the public variable during playmode to experiement with settings such as move and spin speed. Remember any changes you make in playmode will be lost when you exit playmode so take a note of your favourite values. 
-
-**Tip:** Be careful when setting public variables in the Inspector window as this will override values set in your script. 
-
-You can create many types of public variable such as `GameObject` variables so that you can access GameObjects from the scene:
-
-```
-public GameObject Player;
-```
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Accessing another GameObject through a variable
----
-
-To access a variable from another GameObject, that variable must be public:
-
-```
-public class StarPlayer : MonoBehaviour
-{
-    public int stars = 0; 
-}
-```
-
-You can then create a variable with the type of the script that has the variable and set it using the Inspector. You will then be able to access the variable to read the value or update it. 
-
-```
-    StarPlayer player;
-
-    void AddStar()
-    {
-        player.stars += 1; // increase by 1
-    }
-
-```
-
---- /collapse ---
+[[[unity-gameobject-public-variable]]]
 
 
 ### Scripting game objects
 
 [[[unity-print-console-debug]]]
-
-[[[unity-collider-trigger]]]
 
 [[[unity-setactive]]]
 
@@ -153,8 +105,6 @@ You can then create a variable with the type of the script that has the variable
 [[[unity-update-textmeshpro]]]
 
 --- /task ---
-
-
 
 --- task ---
 
