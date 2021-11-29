@@ -4,6 +4,8 @@ Did you meet the **project brief**? Think about your project and go through the 
 
 Your **project brief** was to make a 3D game, virtual world or visual novel with a goal and one or more endings.
 
+Remember, it takes a long time to make a complete game or visual novel. Some games take years for large teams to develop. Think about what you've managed to achieve in the time you had available.
+
 Does your 3D adventure:
 
 --- task ---
@@ -72,6 +74,6 @@ Take a moment to celebrate what you have made.
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Where will you take your new powers? Will you continue this adventure? What will you make next? 
 
 --- /task ---
