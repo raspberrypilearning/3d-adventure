@@ -27,6 +27,7 @@ Add a description of what to do or think about when looking at the example.
 <div>
 
 **Example name**: [See inside]
+<mark>Placeholder: Mini games</mark>
 
 </div>
 </div>
@@ -49,7 +50,7 @@ Make a 3D game, virtual world or visual novel with a goal and one or more ending
 Your project should:
 + Have a player character and one or more non-player characters or objects.
 + Have 3D scenery for the player to explore.
-+ Tell the player when they have completed the goals with a win or lose message or an ending. 
++ Tell the player when they have finished with a win or lose message or an ending. 
 
 Your project could:
 + Have sound effects.
@@ -63,16 +64,28 @@ Your project could:
 
 --- task ---
 
-Think about ... as you investigate these example projects to get more ideas:
+Try these example projects to get ideas for what you could make. Think about how the skills you have learned have been combined to make these games and adventures:
 
-
+<mark>Placeholder: https://crossyrat.tracygardner.repl.co/</mark>
+<mark>Placeholder: Lost rock</mark>
+<mark>Placeholder: Sibling finder</mark>
 --- /task ---
 
 --- /no-print ---
 
 --- print-only ---
 
-![Complete project](images/showcase_static.png)
+Mini games: <mark>add link</mark>
+![](images/mini-games-example.png)
+
+Crossy rat: <mark>add link</mark>
+![](images/crossy-rat.png)
+
+Lost rock: <mark>add link</mark>
+![](images/lost-rock-example.png)
+
+Sibling finder: <mark>add link</mark>
+![](images/sibling-example.png)
 
 --- /print-only ---
 
