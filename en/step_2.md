@@ -6,7 +6,7 @@ Use this step to plan your project. You can plan by just thinking, tinkering, dr
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"Computers are the best tool we have to think a thing, and then quickly bring that thing into the world in a way that other humans understand it." Timoni West, Unity </p>
 
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
+Image, gif or video showing what they will achieve by the end of the step. ![](images/start-planning.png){:width="400px"}
 
 ### What is the goal ?
 
@@ -29,7 +29,7 @@ Think about who you will make your project for (your **audience**).
 
 --- /task ---
 
-### Game design
+### Game design or experience design
 
 - How will the player know how to start and what to do next?
 - What camera angle do you want?
