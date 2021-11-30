@@ -6,4 +6,7 @@ Now you can bring all your ideas to life in Unity. Try using Unity to make more 
 
 [[[unity-coolest-projects]]]
 
-<mark>Mention Unity courses.</mark>
+If you want to continue developing your Unity skills, there are many more free resources to help you do that. 
+
++ To learn more C# programming with Unity, and possibly get a job as a programmer someday, check out [Unity’s Junior Programmer Pathway](https://learn.unity.com/pathway/junior-programmer){:target=_blank}. 
+
