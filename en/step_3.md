@@ -7,7 +7,7 @@ Now it's time to make your 3D Adventure. Start small, and add more to your 3D ad
 
 --- task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your project : 
+You have built up some really useful skills. Here is a reminder to help you make your project: 
 
 ### Unity reference
 
