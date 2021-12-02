@@ -93,6 +93,8 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[unity-particle-system]]]
 
+[[[unity-light-source]]]
+
 
 ### Text and UI
 
