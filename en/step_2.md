@@ -52,14 +52,20 @@ Use your experience to design your game:
 
 --- task ---
 
-Open the project you have been working on during this path and create a new scene.
+**Choose:**
+
+Open the project you have been working on during this Introduction to Unity path and create a new scene.
+
+or
+
+Download the [Unity starter package](https://rpf.io/p/en/3d-adventure-go){:target="_blank"} to your computer. Choose a sensible location such as your Documents folder. 
 
 --- collapse ---
 ---
 title: I don't have an existing project
 ---
 
-If you have not compeleted the rest of the path, or are not able to open your previous project, you can download and import the [3D adventure](path){:target=_blank} template package that contains a collection of useful assets. 
+If you have not compeleted the rest of the path, or are not able to open your previous project, you can download and import the [3D adventure](https://rpf.io/p/en/3d-adventure-go){:target=_blank} template package that contains a collection of useful assets. 
 
 --- /collapse ---
 
