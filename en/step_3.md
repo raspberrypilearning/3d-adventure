@@ -80,6 +80,10 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[unity-conditional-scripting]]]
 
+[[[unity-time]]]
+
+[[[unity-random-numbers]]]
+
 
 ### Sound and effects
 
@@ -88,6 +92,8 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[unity-add-soundtrack]]]
 
 [[[unity-particle-system]]]
+
+[[[unity-light-source]]]
 
 
 ### Text and UI
