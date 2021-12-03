@@ -26,6 +26,8 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[unity-plane]]]
 
+[[[unity-terrain-object]]]
+
 [[[unity-3d-objects]]]
 
 [[[unity-model-gameobject]]]
