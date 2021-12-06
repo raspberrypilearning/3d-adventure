@@ -66,10 +66,12 @@ Your project could:
 --- task ---
 
 Try these example projects to get ideas for what you could make. Think about how the skills you have learned have been combined to make these games and adventures:
-
-<mark>Placeholder: https://crossyrat.tracygardner.repl.co/</mark>
+  
 <mark>Placeholder: Lost rock</mark>
 <mark>Placeholder: Sibling finder</mark>
+
+[Crossy Rat](https://raspberrypilearning.github.io/unity-webgl/CrossyRat/){:target=_blank}.
+  
 --- /task ---
 
 --- /no-print ---
@@ -79,7 +81,7 @@ Try these example projects to get ideas for what you could make. Think about how
 Minigames: https://raspberrypilearning.github.io/unity-webgl/minigames
 ![](images/minigames.png)
 
-Crossy rat: <mark>add link</mark>
+Crossy rat: https://raspberrypilearning.github.io/unity-webgl/CrossyRat/
 ![](images/crossy-rat.png)
 
 Lost rock: <mark>add link</mark>
