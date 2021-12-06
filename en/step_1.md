@@ -27,7 +27,7 @@ Think about the GameObjects including their shape, size, movement and positions.
 + How has SetActive() been used to create the cage obstacles?  
 + Would you have chosen this camera angle or used different settings? 
 
-[Minigames](https://raspberrypilearning.github.io/unity-webgl/minigames){:target=_blank}.
+[Minigames](https://raspberrypilearning.github.io/unity-webgl/minigames){:target='_blank'}.
 
 <iframe allowtransparency="true" width="710" height="450" src="https://raspberrypilearning.github.io/unity-webgl/minigames" frameborder="0"></iframe>
 
@@ -43,7 +43,7 @@ A <span style="color: #0faeb0">project brief</span> describes what a project mus
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Project title
+### PROJECT BRIEF: 3D Adventure
 <hr style="border-top: 2px solid black;">
 
 Make a 3D game, virtual world or visual novel with a goal and one or more endings.
@@ -70,7 +70,7 @@ Try these example projects to get ideas for what you could make. Think about how
 <mark>Placeholder: Lost rock</mark>
 <mark>Placeholder: Sibling finder</mark>
 
-[Crossy Rat](https://raspberrypilearning.github.io/unity-webgl/CrossyRat/){:target=_blank}.
+[Crossy Rat](https://raspberrypilearning.github.io/unity-webgl/CrossyRat/){:target='_blank'}.
   
 --- /task ---
 
