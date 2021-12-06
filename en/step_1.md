@@ -17,20 +17,21 @@ You will:
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1">
+<div style="flex-basis: 175px; flex-grow: 1">  
 
-### Try it
+### Try it 
 
-Add a description of what to do or think about when looking at the example.
+Click on the embedded project and complete the minigame challenges. 
 
-</div>
-<div>
+Think about the GameObjects including their shape, size, movement and positions. 
++ How has SetActive() been used to create the cage obstacles?  
++ Would you have chosen this camera angle or used different settings? 
 
-**Example name**: [See inside]
-<mark>Placeholder: Mini games</mark>
+[Minigames](https://raspberrypilearning.github.io/unity-webgl/minigames){:target=_blank}.
 
-</div>
-</div>
+<iframe allowtransparency="true" width="710" height="450" src="https://raspberrypilearning.github.io/unity-webgl/minigames" frameborder="0"></iframe>
+
+![The Game view of minigames showing some cages that contain stars made out of tall cylinders and raised plateforms with giant rats.](images/minigames.png){:width="400px"}
 
 --- /task ---
 
@@ -75,8 +76,8 @@ Try these example projects to get ideas for what you could make. Think about how
 
 --- print-only ---
 
-Mini games: <mark>add link</mark>
-![](images/mini-games-example.png)
+Minigames: https://raspberrypilearning.github.io/unity-webgl/minigames
+![](images/minigames.png)
 
 Crossy rat: <mark>add link</mark>
 ![](images/crossy-rat.png)
