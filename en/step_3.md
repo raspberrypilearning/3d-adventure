@@ -89,6 +89,8 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 ### Sound and effects
 
+![A strip of images with firework particle effects and light source being used to highlight different areas of the Game view.](images/particles-light.gif)
+
 [[[unity-play-sound]]]
 
 [[[unity-add-soundtrack]]]
