@@ -13,6 +13,7 @@ Use this step to plan your project. You can plan by just thinking, tinkering, dr
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"Computers are the best tool we have to think a thing, and then quickly bring that thing into the world in a way that other humans understand it." Timoni West, Unity </p>
 
+![A strip of 4 images showing different examples of 3D adventures.](images/examples-strip.png)
 
 ### What is the goal ?
 
