@@ -22,6 +22,8 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 ### Creating a 3D world
 
+![A strip of images with scenery created from models and 3d shapes.](images/scenery.png)
+
 [[[unity-3D-coordinates]]]
 
 [[[unity-plane]]]

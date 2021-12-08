@@ -67,10 +67,9 @@ Your project could:
 
 Try these example projects to get ideas for what you could make. Think about how the skills you have learned have been combined to make these games and adventures:
   
-<mark>Placeholder: Lost rock</mark>
-<mark>Placeholder: Sibling finder</mark>
-
-[Crossy Rat](https://raspberrypilearning.github.io/unity-webgl/CrossyRat/){:target='_blank'}.
++ [The Lost Rock](https://raspberrypilearning.github.io/unity-webgl/TheLostRock/){:target='_blank'}.
++ [Home for Dinner](https://raspberrypilearning.github.io/unity-webgl/HomeForDinner/){:target='_blank'}.
++ [Crossy Rat](https://raspberrypilearning.github.io/unity-webgl/CrossyRat/){:target='_blank'}.
   
 --- /task ---
 
@@ -84,11 +83,11 @@ Minigames: https://raspberrypilearning.github.io/unity-webgl/minigames
 Crossy rat: https://raspberrypilearning.github.io/unity-webgl/CrossyRat/
 ![](images/crossy-rat.png)
 
-Lost rock: <mark>add link</mark>
-![](images/lost-rock-example.png)
+The lost rock: https://raspberrypilearning.github.io/unity-webgl/TheLostRock
+![](images/lost-rock.png)
 
-Sibling finder: <mark>add link</mark>
-![](images/sibling-example.png)
+Home for dinner: https://raspberrypilearning.github.io/unity-webgl/HomeForDinner
+![](images/home-for-dinner.png)
 
 --- /print-only ---
 
