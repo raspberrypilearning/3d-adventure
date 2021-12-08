@@ -47,6 +47,8 @@ Use your experience to design your game:
 - What are the important states and conditions for your game? What variables will you need to track these? 
 - How will the player know when they have completed the game (by winning or losing or finding an ending)?
 
+![A strip of images showing a start screen, the camera, NPCs and player characters.](images/planning-questions.png.png)
+
 ### Get started
 
 --- task ---

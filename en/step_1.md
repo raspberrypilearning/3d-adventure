@@ -72,11 +72,11 @@ Your project could:
 Try these example projects to get ideas for what you could make. Think about how the skills you have learned have been combined to make these games and adventures:
   
 + [The Lost Rock](https://raspberrypilearning.github.io/unity-webgl/TheLostRock/){:target='_blank'}.
-![](images/lost-rock.png)
+![](images/lost-rock.png){:width="300px"}
 + [Home for Dinner](https://raspberrypilearning.github.io/unity-webgl/HomeForDinner/){:target='_blank'}.
-![](images/home-for-dinner.png)
+![](images/home-for-dinner.png){:width="300px"}
 + [Crossy Rat](https://raspberrypilearning.github.io/unity-webgl/CrossyRat/){:target='_blank'}.
-![](images/crossy-rat.png)
+![](images/crossy-rat.png){:width="300px"}
   
 --- /task ---
 
@@ -85,16 +85,16 @@ Try these example projects to get ideas for what you could make. Think about how
 --- print-only ---
 
 Minigames: https://raspberrypilearning.github.io/unity-webgl/minigames
-![](images/minigames.png)
+![](images/minigames.png){:width="300px"}
 
 Crossy rat: https://raspberrypilearning.github.io/unity-webgl/CrossyRat/
-![](images/crossy-rat.png)
+![](images/crossy-rat.png){:width="300px"}
 
 The lost rock: https://raspberrypilearning.github.io/unity-webgl/TheLostRock
-![](images/lost-rock.png)
+![](images/lost-rock.png){:width="300px"}
 
 Home for dinner: https://raspberrypilearning.github.io/unity-webgl/HomeForDinner
-![](images/home-for-dinner.png)
+![](images/home-for-dinner.png){:width="300px"}
 
 --- /print-only ---
 
