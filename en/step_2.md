@@ -38,6 +38,8 @@ Think about who you will make your project for (your **audience**).
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Lots of popular games are written with Unity including Among Us, Pokémon Go and Pikmin Bloom, Untitled Goose Game, Beat Saber and Crossy Road. Game designers had to think about how they would make these games engaging for players. How did they do?</p>
 
+![A strip of images showing a start screen, the camera, NPCs and player characters.](images/planning-questions.png)
+
 Use your experience to design your game:
 - How will the player know how to start and what to do next? 
 - What camera angle do you want?
@@ -46,8 +48,6 @@ Use your experience to design your game:
 - How will you use scenery, animations and sound effects to create the right atmosphere?
 - What are the important states and conditions for your game? What variables will you need to track these? 
 - How will the player know when they have completed the game (by winning or losing or finding an ending)?
-
-![A strip of images showing a start screen, the camera, NPCs and player characters.](images/planning-questions.png.png)
 
 ### Get started
 
