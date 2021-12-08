@@ -2,10 +2,7 @@
 
 Now it's time to make your 3D Adventure. Start small, and add more to your 3D adventure if you have time.
 
-![](images/image.png)
-
-
---- task ---
+![A strip of 4 images showing different examples of 3D adventures.](images/examples-strip.png)
 
 You have built up some really useful skills. Here is a reminder to help you make your project: 
 
@@ -120,7 +117,6 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[unity-update-textmeshpro]]]
 
---- /task ---
 
 --- task ---
 
@@ -140,6 +136,8 @@ Useful debug tips:
 - Look at the values of public variables in the Inspector in Playmode to see how they are changing. 
 - Use `Debug.Log()` to print messages to the Console to understand what's happening. 
 - Check the Console for errors. Script errors also appear in the bar at the bottom of the editor. 
+
+--- /task ---
 
 [[[unity-console-error]]]
 
@@ -174,8 +172,5 @@ Look at the character in the Inspector. Is your character rotated to face in the
 You might find a bug not listed here. Can you figure out how to fix it?
 
 We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
-
---- /task ---
-
 
 --- save ---

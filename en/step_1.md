@@ -31,7 +31,11 @@ Think about the GameObjects including their shape, size, movement and positions.
 
 <iframe allowtransparency="true" width="710" height="450" src="https://raspberrypilearning.github.io/unity-webgl/minigames" frameborder="0"></iframe>
 
+--- print-only ---
+
 ![The Game view of minigames showing some cages that contain stars made out of tall cylinders and raised plateforms with giant rats.](images/minigames.png){:width="400px"}
+
+--- /print-only ---
 
 --- /task ---
 
@@ -68,8 +72,11 @@ Your project could:
 Try these example projects to get ideas for what you could make. Think about how the skills you have learned have been combined to make these games and adventures:
   
 + [The Lost Rock](https://raspberrypilearning.github.io/unity-webgl/TheLostRock/){:target='_blank'}.
+![](images/lost-rock.png)
 + [Home for Dinner](https://raspberrypilearning.github.io/unity-webgl/HomeForDinner/){:target='_blank'}.
+![](images/home-for-dinner.png)
 + [Crossy Rat](https://raspberrypilearning.github.io/unity-webgl/CrossyRat/){:target='_blank'}.
+![](images/crossy-rat.png)
   
 --- /task ---
 
