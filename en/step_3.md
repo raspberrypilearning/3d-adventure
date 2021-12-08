@@ -102,6 +102,8 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 ### Text and UI
 
+![A strip of images with text and buttons shown in the Game view.](images/text-buttons.png)
+
 [[[unity-text-meshpro]]]
 
 [[[unity-add-position-text]]]
