@@ -1,16 +1,16 @@
 ## Introduction
 
-You are going to create a 3D adventure with a goal that the player needs to achieve. Your 3D adventure could be a game, a virtual world or a visual novel with a goal and one or more endings.
+You are going to create a 3D adventure with a goal that the player needs to achieve. Your 3D adventure could be a game, a virtual world, or a visual novel with a goal and one or more endings.
 
 Your project will need to meet the **project brief**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">virtual world</span> is a computer environment where players can explore and interact with game objects including non-player characters. A <span style="color: #0faeb0">visual novel</span> is a genre of computer game featuring a story, character development and player choices.</p>
+A <span style="color: #0faeb0">virtual world</span> is a computer environment where players can explore and interact with game objects including non-player characters. A <span style="color: #0faeb0">visual novel</span> is a genre of computer game featuring a story, character development, and player choices.</p>
 
 You will:
-+ Use your Unity skills to make a small game or experience.
-+ Combine 3D GameObjects, Scripts, Animations, Materials, UI and Sounds. 
-+ Share your project with others so they can try it out and you can get feedback.
++ Use your Unity skills to make a small game or experience
++ Combine 3D GameObjects, Scripts, Animations, Materials, UI, and Sounds 
++ Share your project with others so they can try it out and you can get feedback
 
 --- no-print ---
 
@@ -23,8 +23,8 @@ You will:
 
 Click on the embedded project and complete the minigame challenges. 
 
-Think about the GameObjects including their shape, size, movement and positions. 
-+ How has SetActive() been used to create the cage obstacles?  
+Think about the GameObjects including their shape, size, movement, and positions. 
++ How has `SetActive()` been used to create the cage obstacles?  
 + Would you have chosen this camera angle or used different settings? 
 
 [Minigames](https://raspberrypilearning.github.io/unity-webgl/minigames){:target='_blank'}.
@@ -33,7 +33,7 @@ Think about the GameObjects including their shape, size, movement and positions.
 
 --- print-only ---
 
-![The Game view of minigames showing some cages that contain stars made out of tall cylinders and raised plateforms with giant rats.](images/minigames.png){:width="400px"}
+![The Game view of the minigames showing some cages made out of tall cylinders, which contain stars, and raised platforms with giant rats.](images/minigames.png){:width="400px"}
 
 --- /print-only ---
 
@@ -47,20 +47,20 @@ A <span style="color: #0faeb0">project brief</span> describes what a project mus
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: 3D Adventure
+### PROJECT BRIEF: 3D adventure
 <hr style="border-top: 2px solid black;">
 
-Make a 3D game, virtual world or visual novel with a goal and one or more endings.
+Make a 3D game, virtual world, or visual novel with a goal and one or more endings.
 
 Your project should:
-+ Have a player character and one or more non-player characters or objects.
-+ Have 3D scenery for the player to explore.
-+ Tell the player when they have finished with a win or lose message or an ending. 
++ Have a Player character and one or more non-player characters or objects
++ Have 3D scenery for the player to explore
++ Tell the player when they have finished with a win or lose message or an ending 
 
 Your project could:
-+ Have sound effects.
-+ Use animations to make your game objects come to life.
-+ Use text and/or buttons to communicate with the player and get input.
++ Have sound effects
++ Use animations to make your game objects come to life
++ Use text and/or buttons to communicate with the player and get input
 </div>
 
 --- no-print ---
@@ -69,13 +69,13 @@ Your project could:
 
 --- task ---
 
-Try these example projects to get ideas for what you could make. Think about how the skills you have learned have been combined to make these games and adventures:
+Try these example projects to get ideas for what you could make. Think about how the skills you have learnt have been combined to make these games and adventures:
   
-+ [The Lost Rock](https://raspberrypilearning.github.io/unity-webgl/TheLostRock/){:target='_blank'}.
++ [The lost rock](https://raspberrypilearning.github.io/unity-webgl/TheLostRock/){:target='_blank'}.
 ![](images/lost-rock.png){:width="300px"}
-+ [Home for Dinner](https://raspberrypilearning.github.io/unity-webgl/HomeForDinner/){:target='_blank'}.
++ [Home for dinner](https://raspberrypilearning.github.io/unity-webgl/HomeForDinner/){:target='_blank'}.
 ![](images/home-for-dinner.png){:width="300px"}
-+ [Crossy Rat](https://raspberrypilearning.github.io/unity-webgl/CrossyRat/){:target='_blank'}.
++ [Crossy rat](https://raspberrypilearning.github.io/unity-webgl/CrossyRat/){:target='_blank'}.
 ![](images/crossy-rat.png){:width="300px"}
   
 --- /task ---

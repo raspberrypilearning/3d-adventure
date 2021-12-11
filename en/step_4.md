@@ -2,7 +2,7 @@
 
 Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
 
-Your **project brief** was to make a 3D game, virtual world or visual novel with a goal and one or more endings.
+Your **project brief** was to make a 3D game, virtual world, or visual novel with a goal and one or more endings.
 
 Remember, it takes a long time to make a complete game or visual novel. Some games take years for large teams to develop. Think about what you've managed to achieve in the time you had available.
 
@@ -10,7 +10,7 @@ Does your 3D adventure:
 
 --- task ---
 
-Have a player character and one or more non-player characters or objects.
+Have a Player character and one or more non-player characters or objects.
 
 --- /task ---
 

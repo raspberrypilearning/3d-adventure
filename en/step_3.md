@@ -1,8 +1,8 @@
 ## Build and test
 
-Now it's time to make your 3D Adventure. Start small, and add more to your 3D adventure if you have time.
+Now it's time to make your 3D adventure. Start small, and add more to your 3D adventure if you have time.
 
-![A strip of 4 images showing different examples of 3D adventures.](images/examples-strip.png)
+![A strip of four images showing different examples of 3D adventures.](images/examples-strip.png)
 
 You have built up some really useful skills. Here is a reminder to help you make your project: 
 
@@ -19,7 +19,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 ### Creating a 3D world
 
-![A strip of images with scenery created from models and 3d shapes.](images/scenery.png)
+![A strip of images with scenery created from models and 3D shapes.](images/scenery.png)
 
 [[[unity-3D-coordinates]]]
 
@@ -120,20 +120,20 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your book? 
+**Test:** Show someone else your project and get their feedback. Do you want make any changes? 
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"Play your game while you’re writing it. Play it a lot. Play it over and over. Every time you start work on your game again, begin your work session by replaying." - Emily Short, Game Narrative Designer</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"Play your game while you’re writing it. Play it a lot. Play it over and over. Every time you start work on your game again, begin your work session by replaying." Emily Short, Game Narrative Designer</p>
 
 --- task ---
 
 **Debug:** You might find some bugs in your project that you need to fix. 
 
 Useful debug tips:
-- Turn on the Playmode tint so that you can tell when you are in game mode.
-- Click on 'Gizmos' in Playmode and then click on a game object in the Inspector to view its colliders.
-- Look at the values of public variables in the Inspector in Playmode to see how they are changing. 
+- Turn on the Play mode tint so that you can tell when you are in Game mode.
+- Click on 'Gizmos' in Play mode and then click on a game object in the Inspector to view its colliders.
+- Look at the values of public variables in the Inspector in Play mode to see how they are changing. 
 - Use `Debug.Log()` to print messages to the Console to understand what's happening. 
 - Check the Console for errors. Script errors also appear in the bar at the bottom of the editor. 
 
@@ -163,7 +163,7 @@ title: My patrolling characters do not move/face the right way
 
 Think about the coordinates in your script: 
 + Are you moving along the correct `x`, `y`, `z` axis? 
-+ Are you using the positive and negative values you need for your movement range.
++ Are you using the positive and negative values you need for your movement range?
 
 Look at the character in the Inspector. Is your character rotated to face in the direction you wish to move?  
 
