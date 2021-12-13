@@ -2,6 +2,8 @@
 
 You are going to create a 3D adventure with a goal that the player needs to achieve. Your 3D adventure could be a game, a virtual world, or a visual novel with a goal and one or more endings.
 
+This project is brought to you with generous support from [Unity Technologies](https://unity.com/){:target="_blank"}.  These [projects](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} offer young people the opportunity to take their first steps in creating virtual worlds using Real-Time 3D.
+
 Your project will need to meet the **project brief**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
