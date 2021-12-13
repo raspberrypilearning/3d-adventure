@@ -70,6 +70,8 @@ If you have not compeleted the rest of the path, or are not able to open your pr
 
 --- /collapse ---
 
+[[[unity-create-3d-project]]]
+
 [[[unity-importing-a-package]]]
 
 --- collapse ---
