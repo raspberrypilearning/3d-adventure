@@ -10,7 +10,7 @@ You could:
 
 Each example project in the [Introduction](.) has a ‘See Inside’ link for you to explore and look at the code to get ideas and see how they work.
 
-Take a look at some 3D adventure projects created by community members in the Raspberry Pi Foundation’s gallery of [3D adventure Community Projects](https://wke.lt/w/s/DS1fHk){:target=_blank}.
+Take a look at some 3D adventure projects created by community members in the Raspberry Pi Foundation’s gallery of [3D adventure Community Projects](https://wke.lt/w/s/DS1fHk){:target="_blank"}.
 
 --- save ---
 
