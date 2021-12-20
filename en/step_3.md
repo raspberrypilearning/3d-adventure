@@ -38,7 +38,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[unity-child-gameobjects]]]
 
 
-### Add a player character
+### Add a Player character
 
 [[[unity-npc-model]]]
 
@@ -132,7 +132,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 Useful debug tips:
 - Turn on the Play mode tint so that you can tell when you are in Game mode.
-- Click on 'Gizmos' in Play mode and then click on a game object in the Inspector to view its colliders.
+- Click on **Gizmos** in Play mode and then click on a **GameObject** in the Inspector to view its colliders.
 - Look at the values of public variables in the Inspector in Play mode to see how they are changing. 
 - Use `Debug.Log()` to print messages to the Console to understand what's happening. 
 - Check the Console for errors. Script errors also appear in the bar at the bottom of the editor. 

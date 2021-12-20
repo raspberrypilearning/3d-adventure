@@ -36,7 +36,7 @@ Have sound effects.
 
 --- task ---
 
-Use additional animations to make your game objects come to life.
+Use additional animations to make your GameObjects come to life.
 
 --- /task ---
 

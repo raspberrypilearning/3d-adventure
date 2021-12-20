@@ -7,7 +7,7 @@ You can build on the world and quest that you developed in the Design projects, 
 Use this step to plan your project. You can plan by just thinking, tinkering, drawing, or writing, or however you like!
 </div>
 <div>
-![The Game view showing a Raccoon player with text saying 'I'm ready for an adventure. Are you?' and an 'Accept' button.](images/start-planning.png){:width="300px"}
+![The Game view showing a Raccoon Player with text saying "I'm ready for an adventure. Are you?" and an 'Accept' button.](images/start-planning.png){:width="300px"}
 </div>
 </div>
 
@@ -44,7 +44,7 @@ Use your experience to design your game:
 - How will the player know how to start and what to do next? 
 - What camera angle do you want?
 - What NPCs will you use, how will they move, and what is their personality?
-- How will the player be controlled? How will they interact with NPCs and items?
+- How will the Player be controlled? How will they interact with NPCs and items?
 - How will you use scenery, animations, and sound effects to create the right atmosphere?
 - What are the important states and conditions for your game? What variables will you need to track these? 
 - How will the player know when they have completed the game (by winning or losing or finding an ending)?
@@ -66,7 +66,7 @@ Download the [Unity starter package](https://rpf.io/p/en/3d-adventure-go){:targe
 title: I don't have an existing project
 ---
 
-If you have not compeleted the rest of the path, or are not able to open your previous project, you can download and import the [3D adventure](https://rpf.io/p/en/3d-adventure-go){:target=_blank} template package that contains a collection of useful assets. 
+If you have not completed the rest of the path, or are not able to open your previous project, you can download and import the [3D adventure](https://rpf.io/p/en/3d-adventure-go){:target=_blank} template package that contains a collection of useful assets. 
 
 --- /collapse ---
 
