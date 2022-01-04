@@ -73,6 +73,8 @@ Your project could:
 
 Try these example projects to get ideas for what you could make. Think about how the skills you have learnt have been combined to make these games and adventures:
   
++ [Scramble trail](https://scrambletrail.franksberry-pi.repl.co/){:target='_blank'}.
+![](images/scramble-trail.png){:width="300px"}
 + [The lost rock](https://raspberrypilearning.github.io/unity-webgl/TheLostRock/){:target='_blank'}.
 ![](images/lost-rock.png){:width="300px"}
 + [Home for dinner](https://raspberrypilearning.github.io/unity-webgl/HomeForDinner/){:target='_blank'}.
@@ -97,6 +99,9 @@ The lost rock: https://raspberrypilearning.github.io/unity-webgl/TheLostRock
 
 Home for dinner: https://raspberrypilearning.github.io/unity-webgl/HomeForDinner
 ![](images/home-for-dinner.png){:width="300px"}
+  
+Scramble trail: https://scrambletrail.franksberry-pi.repl.co
+![](images/scramble-trail.png){:width="300px"}
 
 --- /print-only ---
 
