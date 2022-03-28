@@ -9,7 +9,9 @@ steps:
   - title: Introduction
   - title: Your idea
   - title: Build and test
+    completion: internal
   - title: Reflect
   - title: Share
   - title: Upgrade your project
+    completion: external
   - title: What next?
