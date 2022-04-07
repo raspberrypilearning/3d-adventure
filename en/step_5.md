@@ -1,19 +1,16 @@
-## Share
+## Upgrade your project
 
-You can build your project as a 'WebGL' project and upload it to a website so others can try it out. 
+If you have time, you can upgrade your project. You might already have ideas about what else to add or you might want to go back to the first step and look at other projects for more inspiration.
 
-[[[webgl-setup]]]
+You could:
+- Add more tasks, quests, or missions for the player to complete 
+- Add clear instructions such as a start screen so they player knows what to do
+- Improve the scenery, sound, and particle effects to create the right atmosphere for your adventure 
+- Observe others playing your 3D adventure then make adjustments or improvements
 
-[[[webgl-build]]]
+Each example project in the [Introduction](.) has a ‘See Inside’ link for you to explore and look at the code to get ideas and see how they work.
 
-[[[webgl-host]]]
+Take a look at some 3D adventure projects created by community members in the Raspberry Pi Foundation’s gallery of [3D adventure Community Projects](https://wke.lt/w/s/DS1fHk){:target="_blank"}.
 
-You could also take a screenshot or make a video of your project. 
+--- save ---
 
---- task ---
-
-Inspire others with your project by submitting it to our community gallery! 
-
-To share your project with others who make the '3d adventure' project, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
-
---- /task ---
