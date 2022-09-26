@@ -1,4 +1,4 @@
-## Introduction
+## You will make
 
 3D adventure is the final project in the [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} path. 
 
@@ -18,12 +18,12 @@ You will:
 
 --- no-print ---
 
+### Play ▶️
+
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">  
-
-### Try it 
+<div style="flex-basis: 175px; flex-grow: 1">   
 
 Click on the embedded project and complete the minigame challenges. 
 
@@ -69,7 +69,7 @@ Your project could:
 
 --- no-print ---
 
-### Get inspiration
+### Get ideas 💭
 
 --- task ---
 
@@ -95,6 +95,8 @@ To explore how these projects have been made, download and unzip the [Unity pack
 --- /no-print ---
 
 --- print-only ---
+
+### Get ideas 💭
 
 Minigames: https://raspberrypilearning.github.io/unity-webgl/minigames
 ![](images/minigames.png){:width="300px"}
