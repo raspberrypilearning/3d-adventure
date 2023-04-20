@@ -83,6 +83,10 @@ Try these example projects to get ideas for what you could make. Think about how
 ![](images/home-for-dinner.png){:width="300px"}
 + [Crossy rat](https://raspberrypilearning.github.io/unity-webgl/CrossyRat/){:target='_blank'}.
 ![](images/crossy-rat.png){:width="300px"}
++ [Weather adventure](https://weather3dadventure.rpfilt.repl.co/){:target='_blank'}
+![](images/weather-3d-adventure.png){:width="300px"}
++ [Rat Queen's party](https://castle3dadventure.rpfilt.repl.co){:target='_blank'}
+![](images/castle-3D-adventure.png){:width="300px"}
   
 To explore how these projects have been made, download and unzip the [Unity packages](https://rpf.io/p/en/3d-adventure-get){:target='_blank'} then import each one into an new 3D Unity project.
   
