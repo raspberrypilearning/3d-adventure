@@ -33,7 +33,7 @@ Think about the GameObjects including their shape, size, movement, and positions
 
 [Minigames](https://raspberrypilearning.github.io/unity-webgl/minigames){:target='_blank'}.
 
-<iframe allowtransparency="true" width="710" height="450" src="https://raspberrypilearning.github.io/unity-webgl/minigames" frameborder="0"></iframe>
+<iframe allowtransparency="true" width="710" height="500" src="https://raspberrypilearning.github.io/unity-webgl/minigames" frameborder="0"></iframe>
 
 --- print-only ---
 
