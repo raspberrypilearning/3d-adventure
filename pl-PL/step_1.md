@@ -1,4 +1,4 @@
-## Introduction
+## You will make
 
 3D adventure is the final project in the [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} path.
 
@@ -18,12 +18,12 @@ You will:
 
 --- no-print ---
 
+### Play ▶️
+
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
-
-### Try it
 
 Click on the embedded project and complete the minigame challenges.
 
@@ -69,7 +69,7 @@ Your project could:
 
 --- no-print ---
 
-### Get inspiration
+### Get ideas 💭
 
 --- task ---
 
@@ -79,6 +79,10 @@ Try these example projects to get ideas for what you could make. Think about how
 + [The lost rock](https://raspberrypilearning.github.io/unity-webgl/TheLostRock/){:target='_blank'}. ![](images/lost-rock.png){:width="300px"}
 + [Home for dinner](https://raspberrypilearning.github.io/unity-webgl/HomeForDinner/){:target='_blank'}. ![](images/home-for-dinner.png){:width="300px"}
 + [Crossy rat](https://raspberrypilearning.github.io/unity-webgl/CrossyRat/){:target='_blank'}. ![](images/crossy-rat.png){:width="300px"}
++ [Weather adventure](https://weather3dadventure.rpfilt.repl.co/){:target='_blank'}
+![](images/weather-3d-adventure.png){:width="300px"}
++ [Rat Queen's party](https://castle3dadventure.rpfilt.repl.co){:target='_blank'}
+![](images/castle-3D-adventure.png){:width="300px"}
 
 To explore how these projects have been made, download and unzip the [Unity packages](https://rpf.io/p/en/3d-adventure-get){:target='_blank'} then import each one into an new 3D Unity project.
 
@@ -91,6 +95,8 @@ To explore how these projects have been made, download and unzip the [Unity pack
 --- /no-print ---
 
 --- print-only ---
+
+### Get ideas 💭
 
 Minigames: https://raspberrypilearning.github.io/unity-webgl/minigames ![](images/minigames.png){:width="300px"}
 
