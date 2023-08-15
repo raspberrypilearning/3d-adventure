@@ -32,11 +32,15 @@ It could be:
 
 Think about who you will make your project for (your **audience**).
 
+- Do they play lots of games already?
+- What would they be looking for in a 3D world?
+- Why would they want to play your game?
+
 --- /task ---
 
 ### Game design or experience design
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Lots of popular games are written with Unity including Among Us, Pokémon Go, Pikmin Bloom, Untitled Goose Game, Beat Saber, and Crossy Road. Game designers had to think about how they would make these games engaging for players. How did they do?</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Lots of popular games are written with Unity including Among Us, Pokémon Go, Pikmin Bloom, Untitled Goose Game, Beat Saber, and Crossy Road. Game designers had to think about how they would make these games engaging for players. How did they do make sure players have **fun** whilst playing?</p>
 
 ![A strip of images showing a start screen, the camera, NPCs, and Player characters.](images/planning-questions.png)
 
