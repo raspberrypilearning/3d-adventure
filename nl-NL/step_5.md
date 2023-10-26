@@ -1,16 +1,16 @@
-## Upgrade your project
+## Verbeter je project
 
-If you have time, you can upgrade your project. You might already have ideas about what else to add or you might want to go back to the first step and look at other projects for more inspiration.
+Als je tijd hebt, kunt je jouw project verbeteren. Je hebt misschien al ideeën over wat je nog meer wilt toevoegen of misschien wil je teruggaan naar de eerste stap en andere projecten bekijken voor meer inspiratie.
 
-You could:
-- Add more tasks, quests, or missions for the player to complete
-- Add clear instructions such as a start screen so they player knows what to do
-- Improve the scenery, sound, and particle effects to create the right atmosphere for your adventure
-- Observe others playing your 3D adventure then make adjustments or improvements
+Je kunt:
+- Meer taken, speurtochten of missies toevoegen die de speler moet voltooien
+- Duidelijke instructies toevoegen, zoals een startscherm, zodat de speler weet wat hij moet doen
+- Het landschap verbeteren, geluid en particle effecten toevoegen om de juiste sfeer voor je avontuur te creëren
+- Kijk hoe anderen je 3D-avontuur spelen en maak aanpassingen of verbeteringen
 
-Each example project in the [Introduction](.) has a ‘See Inside’ link for you to explore and look at the code to get ideas and see how they work.
+Elk voorbeeldproject in de [Introductie ](.) heeft een link 'zie binnen' om de code te verkennen en te bekijken om ideeën te krijgen en te zien hoe ze werken.
 
-Take a look at some 3D adventure projects created by community members in the Raspberry Pi Foundation’s gallery of [3D adventure Community Projects](https://wke.lt/w/s/DS1fHk){:target="_blank"}.
+Bekijk een paar 3D-avonturenprojecten die zijn gemaakt door leden van de gemeenschap in de galerie van de Raspberry Pi Foundation van [ 3D avontuur Community Projects ](https://wke.lt/w/s/DS1fHk){:target="_blank"}.
 
 --- save ---
 
