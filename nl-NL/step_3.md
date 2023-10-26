@@ -1,12 +1,12 @@
-## Build and test
+## Bouw en test
 
-Now it's time to make your 3D adventure. Start small, and add more to your 3D adventure if you have time.
+Nu is het tijd om je 3D-avontuur te maken. Begin klein en voeg meer toe aan je 3D-avontuur als je tijd hebt.
 
-![A strip of four images showing different examples of 3D adventures.](images/examples-strip.png)
+![Een strook van vier afbeeldingen met verschillende voorbeelden van 3D-avonturen.](images/examples-strip.png)
 
-You have built up some really useful skills. Here is a reminder to help you make your project:
+Je hebt echt nuttige vaardigheden opgebouwd. Hier is een herinnering om je te helpen bij het maken van je project:
 
-### Unity reference
+### Unity-referentie
 
 [[[unity-editor]]]
 
@@ -17,9 +17,9 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[unity-scene-top-down]]]
 
 
-### Creating a 3D world
+### Het creëren van een 3D-wereld
 
-![A strip of images with scenery created from models and 3D shapes.](images/scenery.png)
+![Een strook afbeeldingen met landschappen gemaakt van modellen en 3D-vormen.](images/scenery.png)
 
 [[[unity-3D-coordinates]]]
 
@@ -38,7 +38,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[unity-child-gameobjects]]]
 
 
-### Add a Player character
+### Voeg een Spelerpersonage toe
 
 [[[unity-npc-model]]]
 
@@ -49,7 +49,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[unity-animation]]]
 
 
-### Add NPCs and other game objects
+### Voeg NPC's en andere spelobjecten toe
 
 [[[unity-gameobject-spin]]]
 
@@ -60,22 +60,22 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[unity-adding-tags]]]
 
 
-### Collisions and triggers
+### Botsingen en triggers
 
-![Two imagesin Scene view showing colliders on different 3D GameObjects.](images/colliders.png)
+![Twee afbeeldingen in Scene-weergave met colliders op verschillende 3D GameObjects.](images/colliders.png)
 
 [[[unity-physics-colliders]]]
 
 [[[unity-collider-trigger]]]
 
-### Variables and game states
+### Variabelen en spelstatussen
 
 [[[unity-variable-inspector]]]
 
 [[[unity-gameobject-public-variable]]]
 
 
-### Scripting game objects
+### Spelobjecten schrijven
 
 [[[unity-print-console-debug]]]
 
@@ -88,9 +88,9 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[unity-random-numbers]]]
 
 
-### Sound and effects
+### Geluid en effecten
 
-![A strip of images with firework particle effects and light source being used to highlight different areas of the Game view.](images/particles-light.gif)
+![Een strook afbeeldingen met vuurwerk particle effecten en lichtbron die worden gebruikt om verschillende gebieden van de Spel weergave te accentueren.](images/particles-light.gif)
 
 [[[unity-play-sound]]]
 
@@ -101,9 +101,9 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[unity-light-source]]]
 
 
-### Text and UI
+### Tekst en UI
 
-![A strip of images with text and buttons shown in the Game view.](images/text-buttons.png)
+![Een strook afbeeldingen met tekst en knoppen in de Spel weergave.](images/text-buttons.png)
 
 [[[unity-text-meshpro]]]
 
@@ -120,22 +120,22 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes?
+**Test:** Laat iemand anders jouw project zien en vraag feedback. Wil je wijzigingen aanbrengen?
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"Play your game while you’re writing it. Play it a lot. Play it over and over. Every time you start work on your game again, begin your work session by replaying." Emily Short, Game Narrative Designer</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"Speel je spel terwijl je het schrijft. Speel het vaak. Speel het keer op keer. Elke keer dat je weer aan je spel gaat werken, begin je werksessie door opnieuw te spelen." Emily Short, Game Narrative Ontwerper</p>
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix.
+**Fouten oplossen:** Mogelijk vind je enkele fouten in jouw project die je moet oplossen.
 
-Useful debug tips:
-- Turn on the Play mode tint so that you can tell when you are in Game mode.
-- Click on **Gizmos** in Play mode and then click on a **GameObject** in the Inspector to view its colliders.
-- Look at the values of public variables in the Inspector in Play mode to see how they are changing.
-- Use `Debug.Log()` to print messages to the Console to understand what's happening.
-- Check the Console for errors. Script errors also appear in the bar at the bottom of the editor.
+Handige tips voor foutopsporing:
+- Schakel de tint van de afspeelmodus in zodat je kunt zien wanneer je in de spelmodus bent.
+- Klik op **Gizmos** in de speelmodus en klik vervolgens op een **-Gameobject-** in de Inspector om zijn colliders te bekijken.
+- Kijk naar de waarden van public variabelen in de Inspector in de Spel-modus om te zien hoe ze veranderen.
+- Gebruik `Debug.Log()` om berichten naar de console af te drukken om te begrijpen wat er gebeurt.
+- Controleer de console op fouten. Scriptfouten verschijnen ook in de balk onder aan de editor.
 
 --- /task ---
 
@@ -158,19 +158,19 @@ Useful debug tips:
 --- collapse ---
 
 ---
-title: My patrolling characters do not move/face the right way
+title: Mijn patrouillerende karakters bewegen/kijken niet in de juiste richting
 ---
 
-Think about the coordinates in your script:
-+ Are you moving along the correct `x`, `y`, `z` axis?
-+ Are you using the positive and negative values you need for your movement range?
+Denk aan de coördinaten in je script:
++ Beweeg je langs de juiste `x`, `y`, `z` as?
++ Gebruik je de positieve en negatieve waarden die je nodig hebt voor je bewegingsbereik?
 
-Look at the character in the Inspector. Is your character rotated to face in the direction you wish to move?
+Kijk naar het personage in de Inspector. Is je personage gedraaid in de richting waarin je wilt bewegen?
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Je kunt een fout vinden die hier niet wordt vermeld. Kun je erachter komen hoe je het kunt oplossen?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+We horen graag over je fouten en hoe je ze hebt opgelost. Gebruik de feedbackknop onderaan deze pagina als je een andere fout in je project hebt gevonden.
 
 --- save ---
