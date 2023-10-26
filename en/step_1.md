@@ -33,7 +33,7 @@ Think about the GameObjects including their shape, size, movement, and positions
 
 [Minigames](https://raspberrypilearning.github.io/unity-webgl/minigames){:target='_blank'}.
 
-<iframe allowtransparency="true" width="710" height="500" src="https://raspberrypilearning.github.io/unity-webgl/minigames" frameborder="0"></iframe>
+<iframe allowtransparency="true" width="710" height="450" src="https://raspberrypilearning.github.io/unity-webgl/minigames" frameborder="0"></iframe>
 
 --- print-only ---
 
@@ -116,12 +116,6 @@ Home for dinner: https://raspberrypilearning.github.io/unity-webgl/HomeForDinner
   
 Scramble trail: https://scrambletrail.franksberry-pi.repl.co
 ![](images/scramble-trail.png){:width="300px"}
-
-Weather adventure: https://weather3dadventure.rpfilt.repl.co
-![](images/weather-3d-adventure.png){:width="300px"}
-
-Rat Queen's party: https://castle3dadventure.rpfilt.repl.co
-![](images/castle-3D-adventure.png){:width="300px"}
 
 --- /print-only ---
 
