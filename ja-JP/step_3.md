@@ -62,7 +62,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 ### Collisions and triggers
 
-![Two imagesin Scene view showing colliders on different 3D GameObjects.](images/colliders.png)
+![Two images in Scene view showing colliders on different 3D GameObjects.](images/colliders.png)
 
 [[[unity-physics-colliders]]]
 
