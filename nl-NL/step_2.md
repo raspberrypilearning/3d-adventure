@@ -1,76 +1,76 @@
-## Your idea
+## Jouw idee
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can build on the world and quest that you developed in the Design projects, or if you have enough time you can start a completely new project. 
+Je kunt verder bouwen op de wereld en de zoektocht die je in de Design-projecten hebt ontwikkeld, of als je genoeg tijd hebt kun je een heel nieuw project starten. 
 
-Use this step to plan your project. You can plan by just thinking, tinkering, drawing, or writing, or however you like!
+Gebruik deze stap om je project te plannen. Je kunt het plannen door erover na te denken, te knutselen, te tekenen of te schrijven, of hoe je maar wilt!
 </div>
 <div>
-![The Game view showing a Raccoon Player with text saying "I'm ready for an adventure. Are you?" and an 'Accept' button.](images/start-planning.png){:width="300px"}
+![de spelweergave toont een Raccoon speler met de tekst "ik ben klaar voor een avontuur. Ben jij er klaar voor?" en een 'Accept' knop.](images/start-planning.png){:width="300px"}
 </div>
 </div>
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"Computers are the best tool we have to think a thing, and then quickly bring that thing into the world in a way that other humans understand it." Timoni West, Unity</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"Computers zijn het beste hulpmiddel om iets te bedenken, en dat vervolgens snel in de praktijk te brengen op een manier die andere mensen begrijpen." Timoni West, Unity</p>
 
-### What is the goal?
+### Wat is het doel?
 
 --- task ---
 
-What is the goal of your game, mission, or story?
+Wat is het doel van je spel, missie of verhaal?
 
-It could be:
-- Complete a set of minigames and collecting all the coins
-- Talk to NPCs to find out who the thief was in a mystery story
-- Find the ingredients for a firework and then reward the Player with a Particle System
+Dat kan zijn:
+- Maak een reeks minigames en verzamel alle munten
+- Praat met NPC's om uit te zoeken wie de dief in een mysterie was
+- Zoek de ingrediënten voor een vuurwerk en beloon de speler met een particle system
 
 --- /task ---
 
-### Who is it for?
+### Voor wie is het?
 
 --- task ---
 
-Think about who you will make your project for (your **audience**).
+Bedenk voor wie je je project gaat maken (je **publiek**).
 
-- Do they play lots of games already?
-- What would they be looking for in a 3D world?
-- Why would they want to play your game?
+- Spelen ze al veel games?
+- Wat zouden ze zoeken in een 3D-wereld?
+- Waarom zouden ze je spel willen spelen?
 
 --- /task ---
 
-### Game design or experience design
+### Spel design of ervaring design
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Lots of popular games are written with Unity including Among Us, Pokémon Go, Pikmin Bloom, Untitled Goose Game, Beat Saber, and Crossy Road. Game designers had to think about how they would make these games engaging for players. How did they do make sure players have **fun** whilst playing?</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Veel populaire games worden geschreven met Unity, waaronder Among Us, Pokémon Go, Pikmin Bloom, Untitled Goose Game, Beat Saber en Crossy Road. Game designers moesten goed nadenken over hoe ze deze games aantrekkelijk konden maken voor spelers. Hoe zorgden ze ervoor dat spelers **plezier** hadden tijdens het spelen?</p>
 
-![A strip of images showing a start screen, the camera, NPCs, and Player characters.](images/planning-questions.png)
+![Een strook afbeeldingen met een startscherm, de camera, NPC's en Speler karakters.](images/planning-questions.png)
 
-Use your experience to design your game:
-- How will the player know how to start and what to do next?
-- What camera angle do you want?
-- What NPCs will you use, how will they move, and what is their personality?
-- How will the Player be controlled? How will they interact with NPCs and items?
-- How will you use scenery, animations, and sound effects to create the right atmosphere?
-- What are the important states and conditions for your game? What variables will you need to track these?
-- How will the player know when they have completed the game (by winning or losing or finding an ending)?
+Gebruik je ervaring om je spel te ontwerpen:
+- Hoe weet de speler hoe hij moet beginnen en wat hij vervolgens moet doen?
+- Welke camerahoek wil je?
+- Welke NPC's ga je gebruiken, hoe gaan ze bewegen en wat is hun persoonlijkheid?
+- Hoe wordt de speler bestuurd? Hoe gaan ze met NPC's en items communiceren?
+- Hoe ga je landschappen, animaties en geluidseffecten gebruiken om de juiste sfeer te creëren?
+- Wat zijn de belangrijke statussen en voorwaarden voor je spel? Welke variabelen heb je nodig om deze te volgen?
+- Hoe weet de speler wanneer hij het spel heeft voltooid (door te winnen of te verliezen of een einde te vinden)?
 
-### Get started
+### Aan de slag
 
 --- task ---
 
-**Choose:**
+**Kies:**
 
-Open the project you have been working on during this Introduction to Unity path and create a new scene.
+Open het project waaraan je hebt gewerkt tijdens deze inleiding tot Unity-pad en maak een nieuwe scène.
 
-or
+of
 
-Download the [Unity starter package](https://rpf.io/p/en/3d-adventure-go){:target="_blank"} to your computer. Choose a sensible location such as your Documents folder.
+Download het [Unity starter package](https://rpf.io/p/en/3d-adventure-go){:target="_blank"} op je computer. Kies een geschikte locatie, zoals de map documenten.
 
 --- collapse ---
 ---
-title: I don't have an existing project
+Title: Ik heb geen bestaand project
 ---
 
-If you have not completed the rest of the path, or are not able to open your previous project, you can download and import the [3D adventure](https://rpf.io/p/en/3d-adventure-go){:target=_blank} template package that contains a collection of useful assets.
+Als je de rest van het pad niet hebt voltooid, of je bent niet in staat om je vorige project te openen, dan kun je het [3D avontuur](https://rpf.io/p/en/3d-adventure-go){:target=_blank} sjabloonpakket downloaden en importeren dat een verzameling nuttige assets bevat.
 
 --- /collapse ---
 
@@ -81,22 +81,22 @@ If you have not completed the rest of the path, or are not able to open your pre
 --- collapse ---
 
 ---
-title: Create a new scene
+Title: Maak een nieuwe scène
 ---
 
-Go to the **File** menu and select **New Scene**. Select the `Basic (Built-in)` option and click **Create**.
+Ga naar het **File** menu en selecteer **New Scene**. Selecteer de optie ` Basic (Built-in)` en klik op **Create**.
 
-![The New Scene pop-up window with Basic (Built-in) and Create highlighted.](images/new-scene-options.png)
+![Het pop-upvenster nieuwe scène met Basic (Built-in) en Create gemarkeerd.](images/new-scene-options.png)
 
 --- /collapse ---
 
 --- /task ---
 
-### Unity basics
+### Unity basisprincipes
 
 --- task ---
 
-Personalise the Unity Editor to create the most efficient environment for you to create your project.
+Personaliseer de Unity Editor om de meest efficiënte omgeving te maken voor jou om je project te maken.
 
 [[[unity-customise-editor]]]
 
@@ -106,9 +106,9 @@ Personalise the Unity Editor to create the most efficient environment for you to
 
 --- task ---
 
-Think about how you can make your project with the Unity skills you have learnt. If there's anything that you haven't learnt yet then try and adjust your ideas so you will be able to build your project.
+Bedenk hoe je je project kunt maken met de Unity-vaardigheden die je hebt geleerd. Als er iets is dat je nog niet hebt geleerd, probeer dan je ideeën aan te passen zodat je je project alsnog kunt bouwen.
 
-Note down things you don't know how to do yet so you can find out how to do them in future.
+Noteer dingen die je nog niet weet, zodat je kunt zien hoe je ze in de toekomst kunt doen.
 
 --- /task ---
 
