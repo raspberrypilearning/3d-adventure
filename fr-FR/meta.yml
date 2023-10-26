@@ -1,30 +1,30 @@
 ---
-title: 3D adventure
+title: Aventure 3D
 hero_image: images/banner.png
-description: Create a 3D game, virtual world, or visual novel with a goal and one or more endings
-meta_title: Learn Unity | Game development | 3D adventure
-meta_description: Learn Unity game development with the Raspberry Pi Foundation. Create a 3D adventure of your own using Unity.
+description: Crée un jeu en 3D, un monde virtuel ou un roman visuel avec un objectif et une ou plusieurs fins
+meta_title: Apprendre Unity | Développement de jeux | Aventure 3D
+meta_description: Apprends le développement de jeux Unity avec Raspberry Pi Foundation. Crée ta propre aventure en 3D à l'aide d'Unity.
 version: 4
 listed: true
 copyedit: true
 last_tested: '2021-03-26'
 steps:
   - 
-    title: You will make
+    title: Ce que tu vas faire
   - 
-    title: Your idea
+    title: Ton idée
   - 
-    title: Build and test
+    title: Construire et tester
     completion:
       - engaged
       - internal
   - 
-    title: Checklist
+    title: Liste de contrôle
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Améliorer ton projet
   - 
-    title: Share
+    title: Partager
   - 
-    title: What next?
+    title: Et ensuite ?
