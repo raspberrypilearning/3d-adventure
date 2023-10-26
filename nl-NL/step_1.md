@@ -1,35 +1,35 @@
-## You will make
+## Wat ga je maken
 
-3D adventure is the final project in the [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} path.
+3D-avontuur is het laatste project in het pad [Inleiding tot Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"}.
 
-In this project, you are going to create a 3D adventure with a goal that the player needs to achieve. Your 3D adventure could be a game, a virtual world, or a visual novel with a goal and one or more endings.
+In dit project ga je een 3D-avontuur maken met een doel dat de speler moet bereiken. Je 3D-avontuur kan een spel, een virtuele wereld of een visuele roman zijn met een doel en een of meer einden.
 
-This project is brought to you with generous support from [Unity Technologies](https://unity.com/){:target="_blank"}.  These [projects](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} offer young people the opportunity to take their first steps in creating virtual worlds using Real-Time 3D.
+Dit project wordt je aangeboden met steun van [Unity Technologies](https://unity.com/){:target="_blank"}.  Deze [projecten](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} bieden jongeren de kans om hun eerste stappen te zetten in het maken van virtuele werelden met gebruik van Real-Time 3D.
 
-Your project will need to meet the **project brief**.
+Je project moet voldoen aan de **projectsamenvatting**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">virtual world</span> is a computer environment where players can explore and interact with game objects including non-player characters. A <span style="color: #0faeb0">visual novel</span> is a genre of computer game featuring a story, character development, and player choices.</p>
+Een <span style="color: #0faeb0">virtuele wereld</span> is een computeromgeving waarin spelers spelobjecten kunnen verkennen en ermee kunnen communiceren, inclusief niet-spelerpersonages. A <span style="color: #0faeb0">visuele roman</span> is een computerspelgenre met een verhaal, karakterontwikkeling en spelerskeuzes.</p>
 
-You will:
-+ Use your Unity skills to make a small game or experience
-+ Combine 3D GameObjects, Scripts, Animations, Materials, UI, and Sounds
-+ Share your project with others so they can try it out and you can get feedback
+Je gaat:
++ Je Unity vaardigheden gebruiken om een spelletje of ervaring te maken
++ 3D GameObjects, scripts, animaties, materialen, gebruikersinterface en geluiden combineren
++ Je project met anderen delen zodat ze het kunnen uitproberen en je feedback kunt krijgen
 
 --- no-print ---
 
-### Play ▶️
+### Afspelen ▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
 
-Click on the embedded project and complete the minigame challenges.
+Klik op het ingebedde project en voltooi de minigame uitdagingen.
 
-Think about the GameObjects including their shape, size, movement, and positions.
-+ How has `SetActive()` been used to create the cage obstacles?
-+ Would you have chosen this camera angle or used different settings?
+Kijk goed naar de GameObjects, inclusief hun vorm, grootte, beweging en posities.
++ Hoe is `SetActive()` gebruikt om de kooi obstakels te creëren?
++ Zou je deze camerahoek hebben gekozen of andere instellingen hebben gebruikt?
 
 [Minigames](https://raspberrypilearning.github.io/unity-webgl/minigames){:target='_blank'}.
 
@@ -37,7 +37,7 @@ Think about the GameObjects including their shape, size, movement, and positions
 
 --- print-only ---
 
-![The Game view of the minigames showing some cages made out of tall cylinders, which contain stars, and raised platforms with giant rats.](images/minigames.png){:width="400px"}
+![De Game-weergave van de minigames toont enkele kooien die uit hoge cilinders bestaan, die sterren bevatten, en verhoogde platforms met gigantische ratten.](images/minigames.png){:width="400px"}
 
 --- /print-only ---
 
@@ -46,34 +46,31 @@ Think about the GameObjects including their shape, size, movement, and positions
 --- /no-print ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
+Een <span style="color: #0faeb0">projectbeschrijving</span> beschrijft wat een project moet doen. Het is een beetje alsof je een missie krijgt om te voltooien.
 </p>
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: 3D adventure
-<hr style="border-top: 2px solid black;">
+### PROJECTSAMENVATTING: 3D adventure <hr style="border-top: 2px solid black;"> Maak een 3D-spel, virtuele wereld of een visuele roman met een doel en een of meer eindes.
 
-Make a 3D game, virtual world, or visual novel with a goal and one or more endings.
+Je project moet:
++ een speler-personage en een of meer niet-speler-personages of objecten hebben
++ een 3D-landschap hebben voor de speler om te verkennen
++ de speler vertellen wanneer deze klaar is met een win- of verlies-bericht of een einde
 
-Your project should:
-+ Have a Player character and one or more non-player characters or objects
-+ Have 3D scenery for the player to explore
-+ Tell the player when they have finished with a win or lose message or an ending 
-
-Your project could:
-+ Have sound effects
-+ Use animations to make your game objects come to life
-+ Use text and/or buttons to communicate with the player and get input
+Je project zou:
++ geluidseffecten kunnen hebben
++ animaties gebruiken om je gameobjects tot leven te laten komen
++ tekst en/of knoppen gebruiken om met de speler te communiceren en input te krijgen
 </div>
 
 --- no-print ---
 
-### Get ideas 💭
+### Doe inspiratie op 💭
 
 --- task ---
 
-Try these example projects to get ideas for what you could make. Think about how the skills you have learnt have been combined to make these games and adventures:
+Probeer deze voorbeeldprojecten om ideeën te krijgen voor wat je zou kunnen maken. Bedenk hoe de vaardigheden die je hebt geleerd zijn gecombineerd om deze games en avonturen te maken:
 
 + [Scramble trail](https://scrambletrail.franksberry-pi.repl.co/){:target='_blank'}. ![](images/scramble-trail.png){:width="300px"}
 + [The lost rock](https://raspberrypilearning.github.io/unity-webgl/TheLostRock/){:target='_blank'}. ![](images/lost-rock.png){:width="300px"}
@@ -84,7 +81,7 @@ Try these example projects to get ideas for what you could make. Think about how
 + [Rat Queen's party](https://castle3dadventure.rpfilt.repl.co){:target='_blank'}
 ![](images/castle-3D-adventure.png){:width="300px"}
 
-To explore how these projects have been made, download and unzip the [Unity packages](https://rpf.io/p/en/3d-adventure-get){:target='_blank'} then import each one into an new 3D Unity project.
+Om te ontdekken hoe deze projecten tot stand zijn gekomen, download en unzip de [Unity packages](https://rpf.io/p/en/3d-adventure-get){:target='_blank'} en importeer ze dan een voor een in een nieuw 3D Unity project.
 
 [[[unity-create-3d-project]]]
 
@@ -96,7 +93,7 @@ To explore how these projects have been made, download and unzip the [Unity pack
 
 --- print-only ---
 
-### Get ideas 💭
+### Doe inspiratie op 💭
 
 Minigames: https://raspberrypilearning.github.io/unity-webgl/minigames ![](images/minigames.png){:width="300px"}
 
