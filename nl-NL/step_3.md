@@ -62,7 +62,7 @@ Je hebt echt nuttige vaardigheden opgebouwd. Hier is een herinnering om je te he
 
 ### Botsingen en triggers
 
-![Twee afbeeldingen in Scene-weergave met colliders op verschillende 3D GameObjects.](images/colliders.png)
+![Two images in Scene view showing colliders on different 3D GameObjects.](images/colliders.png)
 
 [[[unity-physics-colliders]]]
 
