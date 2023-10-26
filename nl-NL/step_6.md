@@ -1,6 +1,6 @@
-## Share
+## Delen
 
-You can build your project as a 'WebGL' project and upload it to a website so others can try it out.
+Je kunt je project bouwen als een 'WebGL' project en het uploaden naar een website zodat anderen het kunnen uitproberen.
 
 [[[webgl-setup]]]
 
@@ -8,12 +8,12 @@ You can build your project as a 'WebGL' project and upload it to a website so ot
 
 [[[webgl-host]]]
 
-You could also take a screenshot or make a video of your project.
+Je kunt ook een schermafdruk maken of een video van je project maken.
 
 --- task ---
 
-Inspire others with your project by submitting it to our community gallery!
+Inspireer anderen met je project door het naar onze community Gallery te sturen!
 
-To share your project with others who make the '3d adventure' project, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Om je project te delen met anderen die het '3D-avontuur' project maken, vul je [dit formulier](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} in.
 
 --- /task ---
