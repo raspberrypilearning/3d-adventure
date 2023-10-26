@@ -1,79 +1,79 @@
-## Checklist
+## Liste de contrôle
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+As-tu respecté la **fiche de projet** ? Réfléchis à ton projet et parcours la liste de contrôle ci-dessous et coche celles qui s'appliquent à ton projet.
 
-Your **project brief** was to make a 3D game, virtual world, or visual novel with a goal and one or more endings.
+Ta **fiche de projet** était de réaliser un jeu en 3D, un monde virtuel ou un roman visuel avec un objectif et une ou plusieurs fins.
 
-Remember, it takes a long time to make a complete game or visual novel. Some games take years for large teams to develop. Think about what you've managed to achieve in the time you had available.
+N'oublie pas qu'il faut beaucoup de temps pour réaliser un jeu ou un roman visuel complet. Certains jeux mettent des années à être développés par de grandes équipes. Réfléchis à ce que tu as réalisé dans le temps dont tu disposais.
 
-Does your 3D adventure:
+Est-ce que ton aventure 3D :
 
 --- task ---
 
-Have a Player character and one or more non-player characters or objects.
+A un personnage joueur et un ou plusieurs personnages non-joueurs ou des objets
 
 --- /task ---
 
 --- task ---
 
-Have 3D scenery for the player to explore.
+A des décors 3D que le joueur peut explorer.
 
 --- /task ---
 
 --- task ---
 
-Tell the player when they have completed the goals with a win or lose message or an ending.
+Indique au joueur qu'il a atteint les objectifs par un message de victoire ou de défaite ou par un message de fin.
 
 --- /task ---
 
-Your 3D adventure could also:
+Ton aventure en 3D pourrait aussi :
 
 --- task ---
 
-Have sound effects.
-
---- /task ---
-
---- task ---
-
-Use additional animations to make your GameObjects come to life.
+Avoir des effets sonores.
 
 --- /task ---
 
 --- task ---
 
-Use text and/or buttons to communicate with the player and get input.
-
---- /task ---
-
-Reflecting about how you made your 3D adventure will help you in your future projects.
-
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
---- task ---
-
-How did you get your ideas?
+Utiliser des animations supplémentaires pour donner vie à tes GameObjects.
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Utiliser du texte et/ou des boutons pour communiquer avec le joueur et obtenir des informations.
+
+--- /task ---
+
+Réfléchir à la façon dont tu as réalisé ton aventure en 3D t'aidera dans tes futurs projets.
+
+Réponds aux questions ci-dessous en dessinant, en écrivant, en tapant dans un document, en parlant à quelqu'un ou de la manière créative qui te convient le mieux.
+
+--- task ---
+
+Comment as-tu eu tes idées ?
 
 --- /task ---
 
 --- task ---
 
-Mistakes are powerful. What mistakes did you make and how did they help you create your 3D adventure?
+Quelle(s) nouvelle(s) chose(s) cool as-tu apprise(s) ?
 
 --- /task ---
 
-### Now you are the creator of a 3D adventure
+--- task ---
 
-Take a moment to celebrate what you have made.
+Les erreurs ont un grand impact. Quelles erreurs as-tu commises et comment t'ont-elles aidé à créer ton aventure 3D ?
+
+--- /task ---
+
+### Tu es maintenant le créateur d'une aventure 3D
+
+Prends un moment pour célébrer ce que tu as fait.
 
 --- task ---
 
-Where will you take your new powers? Will you continue this adventure? What will you make next?
+Comment vas-tu utiliser tes nouveaux pouvoirs ? Vas-tu continuer cette aventure ? Que feras-tu ensuite ?
 
 --- /task ---
