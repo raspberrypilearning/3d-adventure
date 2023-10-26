@@ -1,12 +1,12 @@
-## What next?
+## Et ensuite ?
 
-You have reached the end of the [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target='_blank'} path!
+Tu as atteint la fin du parcours [Introduction à Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target='_blank'} !
 
-Now you can bring all your ideas to life in Unity. Try using Unity to make more cool stuff. Come back to this project if you need a reminder of what you have learnt.
+Tu peux maintenant donner vie à toutes tes idées dans Unity. Essaie d'utiliser Unity pour réaliser d'autres trucs sympas. Reviens à ce projet si tu as besoin d'un rappel de ce que tu as appris.
 
 [[[unity-coolest-projects]]]
 
-If you want to continue developing your Unity skills, there are many more free resources to help you do that.
+Si tu veux continuer à développer tes compétences sur Unity, il existe de nombreuses autres ressources gratuites pour t'y aider.
 
-+ To learn more C# programming with Unity, and possibly get a job as a programmer someday, check out [Unity’s Junior Programmer Pathway](https://learn.unity.com/pathway/junior-programmer){:target='_blank'}.
-+ If you enjoyed the design aspect of these projects more, and want to learn more about creating beautiful, immersive environments, check out [Unity’s Creative Core Pathway](https://learn.unity.com/pathway/creative-core){:target='_blank'}.
++ Pour en savoir plus sur la programmation en C# avec Unity, et peut-être obtenir un jour un emploi de programmeur, consulte [le parcours de programmeur junior d'Unity](https://learn.unity.com/pathway/junior-programmer){:target='_blank'}.
++ Si tu as davantage apprécié l'aspect design de ces projets et que tu veux en savoir plus sur la création d'environnements magnifiques et immersifs, consulte le [parcours de base créatif d'Unity](https://learn.unity.com/pathway/creative-core){:target='_blank'}.
