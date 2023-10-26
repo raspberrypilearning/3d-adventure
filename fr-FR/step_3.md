@@ -1,12 +1,12 @@
-## Build and test
+## Construire et tester
 
-Now it's time to make your 3D adventure. Start small, and add more to your 3D adventure if you have time.
+Il est temps de créer ton aventure 3D. Commence petit, et ajoute d'autres éléments à ton aventure 3D si tu as le temps.
 
-![A strip of four images showing different examples of 3D adventures.](images/examples-strip.png)
+![Une bande de quatre images montrant différents exemples d'aventures 3D.](images/examples-strip.png)
 
-You have built up some really useful skills. Here is a reminder to help you make your project:
+Tu as acquis des compétences vraiment utiles. Voici un rappel pour t'aider à réaliser ton projet :
 
-### Unity reference
+### Référence Unity
 
 [[[unity-editor]]]
 
@@ -17,9 +17,9 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[unity-scene-top-down]]]
 
 
-### Creating a 3D world
+### Créer un monde 3D
 
-![A strip of images with scenery created from models and 3D shapes.](images/scenery.png)
+![Une bande d'images avec des décors créés à partir de modèles et de formes 3D.](images/scenery.png)
 
 [[[unity-3D-coordinates]]]
 
@@ -38,7 +38,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[unity-child-gameobjects]]]
 
 
-### Add a Player character
+### Ajouter un personnage joueur
 
 [[[unity-npc-model]]]
 
@@ -49,7 +49,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[unity-animation]]]
 
 
-### Add NPCs and other game objects
+### Ajouter des PNJ et d'autres objets du jeu
 
 [[[unity-gameobject-spin]]]
 
@@ -60,22 +60,22 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[unity-adding-tags]]]
 
 
-### Collisions and triggers
+### Collisions et triggers
 
-![Two imagesin Scene view showing colliders on different 3D GameObjects.](images/colliders.png)
+![Deux images en vue Scene montrant des colliders sur différents 3D GameObjects.](images/colliders.png)
 
 [[[unity-physics-colliders]]]
 
 [[[unity-collider-trigger]]]
 
-### Variables and game states
+### Variables et états du jeu
 
 [[[unity-variable-inspector]]]
 
 [[[unity-gameobject-public-variable]]]
 
 
-### Scripting game objects
+### Scripts pour les objets du jeu
 
 [[[unity-print-console-debug]]]
 
@@ -88,9 +88,9 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[unity-random-numbers]]]
 
 
-### Sound and effects
+### Son et effets
 
-![A strip of images with firework particle effects and light source being used to highlight different areas of the Game view.](images/particles-light.gif)
+![Une bande d'images avec des effets de particules de feu d'artifice et une source de lumière utilisée pour mettre en évidence différentes zones de la vue Game.](images/particles-light.gif)
 
 [[[unity-play-sound]]]
 
@@ -101,9 +101,9 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[unity-light-source]]]
 
 
-### Text and UI
+### Texte et UI
 
-![A strip of images with text and buttons shown in the Game view.](images/text-buttons.png)
+![Une bande d'images avec du texte et des boutons affichés dans la vue Game.](images/text-buttons.png)
 
 [[[unity-text-meshpro]]]
 
@@ -120,22 +120,22 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes?
+**Test :** montre ton projet à quelqu'un d'autre pour avoir son avis. Veux-tu faire des changements ?
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"Play your game while you’re writing it. Play it a lot. Play it over and over. Every time you start work on your game again, begin your work session by replaying." Emily Short, Game Narrative Designer</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">« Joue à ton jeu pendant que tu l'écris. Joues-y beaucoup. Encore et encore. Chaque fois que tu recommences à travailler sur ton jeu, commence ta séance de travail en rejouant. » Emily Short, Game Narrative Designer</p>
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix.
+**Débogage :** il est possible que tu trouves des bogues dans ton projet que tu dois corriger.
 
-Useful debug tips:
-- Turn on the Play mode tint so that you can tell when you are in Game mode.
-- Click on **Gizmos** in Play mode and then click on a **GameObject** in the Inspector to view its colliders.
-- Look at the values of public variables in the Inspector in Play mode to see how they are changing.
-- Use `Debug.Log()` to print messages to the Console to understand what's happening.
-- Check the Console for errors. Script errors also appear in the bar at the bottom of the editor.
+Astuces utiles pour le débogage :
+- Active la teinte du mode Play pour que tu puisses savoir quand tu es en mode Game.
+- Clique sur **Gizmos** en mode Play, puis sur un **GameObject** dans l'Inspector pour afficher ses colliders.
+- Regarde les valeurs des variables publiques dans l'Inspector en mode Play pour voir comment elles changent.
+- Utilise `Debug.Log()` pour imprimer des messages sur la console afin de comprendre ce qui se passe.
+- Vérifie qu'il n'y a pas d'erreurs dans la console. Les erreurs de script apparaissent également dans la barre située en bas de l'éditeur.
 
 --- /task ---
 
@@ -158,19 +158,19 @@ Useful debug tips:
 --- collapse ---
 
 ---
-title: My patrolling characters do not move/face the right way
+title: Mes personnages en patrouille ne se déplacent pas de la bonne façon
 ---
 
-Think about the coordinates in your script:
-+ Are you moving along the correct `x`, `y`, `z` axis?
-+ Are you using the positive and negative values you need for your movement range?
+Réfléchis aux coordonnées dans ton script :
++ Te déplaces-tu le long du bon axe `x`, `y`, `z` ?
++ Utilises-tu les valeurs positives et négatives dont tu as besoin pour ton amplitude de mouvement ?
 
-Look at the character in the Inspector. Is your character rotated to face in the direction you wish to move?
+Regarde le personnage dans l'Inspector. Ton personnage est-il tourné dans la direction où tu veux te déplacer ?
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver comment le résoudre ?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+Nous aimerions connaître tes bogues et la façon dont tu les as résolus. Utilise le bouton Envoyer un commentaire au bas de cette page si tu as trouvé un bogue différent dans ton projet.
 
 --- save ---
