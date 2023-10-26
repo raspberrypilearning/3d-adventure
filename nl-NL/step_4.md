@@ -1,79 +1,79 @@
 ## Checklist
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+Voldoet je project aan de **projectbeschrijving**? Denk na over je project en doorloop de onderstaande checklist en vink af wat van toepassing is op je project.
 
-Your **project brief** was to make a 3D game, virtual world, or visual novel with a goal and one or more endings.
+Je **projectopdracht ** was om een 3D-spel, virtuele wereld of visuele roman maken met een doel en een of meer einden.
 
-Remember, it takes a long time to make a complete game or visual novel. Some games take years for large teams to develop. Think about what you've managed to achieve in the time you had available.
+Vergeet niet dat het lang duurt om een compleet spel of een visuele roman te maken. Grote teams hebben meerdere jaren nodig om sommige games te ontwikkelen. Denk na over wat je hebt bereikt in de tijd die je beschikbaar had.
 
-Does your 3D adventure:
+Heeft je 3D-avontuur:
 
 --- task ---
 
-Have a Player character and one or more non-player characters or objects.
+Een speler karakter en een of meer niet-speler karakters of objecten.
 
 --- /task ---
 
 --- task ---
 
-Have 3D scenery for the player to explore.
+Een 3D-landschap voor de speler om te verkennen.
 
 --- /task ---
 
 --- task ---
 
-Tell the player when they have completed the goals with a win or lose message or an ending.
+Een bericht voor de speler wanneer hij of zij de doelen heeft bereikt met een win- of losebericht of een einde.
 
 --- /task ---
 
-Your 3D adventure could also:
+Je 3D-avontuur kan ook:
 
 --- task ---
 
-Have sound effects.
-
---- /task ---
-
---- task ---
-
-Use additional animations to make your GameObjects come to life.
+Geluidseffecten hebben.
 
 --- /task ---
 
 --- task ---
 
-Use text and/or buttons to communicate with the player and get input.
-
---- /task ---
-
-Reflecting about how you made your 3D adventure will help you in your future projects.
-
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
---- task ---
-
-How did you get your ideas?
+Aanvullende animaties gebruiken om je GameObjects tot leven te laten komen.
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Tekst en/of knoppen gebruiken om met de speler te communiceren en input te krijgen.
+
+--- /task ---
+
+Reflecteren over hoe je je 3D-avontuur hebt gemaakt zal je helpen in je toekomstige projecten.
+
+Beantwoord de onderstaande vragen door te tekenen, schrijven, typen in een document, met iemand te praten of op je eigen creatieve manier die het beste bij je past.
+
+--- task ---
+
+Hoe ben je aan je ideeën gekomen?
 
 --- /task ---
 
 --- task ---
 
-Mistakes are powerful. What mistakes did you make and how did they help you create your 3D adventure?
+Welke coole nieuwe dingen heb je geleerd?
 
 --- /task ---
 
-### Now you are the creator of a 3D adventure
+--- task ---
 
-Take a moment to celebrate what you have made.
+Fouten maken mag. Welke fouten heb je gemaakt en hoe hebben ze je geholpen om je 3D-avontuur te maken?
+
+--- /task ---
+
+### Nu ben je de maker van een 3D-avontuur
+
+Neem even de tijd om dit te vieren.
 
 --- task ---
 
-Where will you take your new powers? Will you continue this adventure? What will you make next?
+Waar ga je met je nieuwe kennis doen? Ga je door met dit avontuur? Wat ga je hierna maken?
 
 --- /task ---
