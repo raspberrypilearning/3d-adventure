@@ -1,76 +1,76 @@
-## Your idea
+## Ton idée
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can build on the world and quest that you developed in the Design projects, or if you have enough time you can start a completely new project. 
+Tu peux t'appuyer sur le monde et la quête que tu as développés dans les projets de conception, ou si tu as assez de temps, tu peux commencer un tout nouveau projet. 
 
-Use this step to plan your project. You can plan by just thinking, tinkering, drawing, or writing, or however you like!
+Utilise cette étape pour planifier ton projet. Tu peux planifier simplement en pensant, en bricolant, en dessinant ou en écrivant, ou comme bon te semble !
 </div>
 <div>
-![The Game view showing a Raccoon Player with text saying "I'm ready for an adventure. Are you?" and an 'Accept' button.](images/start-planning.png){:width="300px"}
+![La vue Game montrant un joueur raton laveur avec un texte disant « Je suis prêt pour l'aventure ». Et toi ? » et un bouton « Accepter ».](images/start-planning.png){:width="300px"}
 </div>
 </div>
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"Computers are the best tool we have to think a thing, and then quickly bring that thing into the world in a way that other humans understand it." Timoni West, Unity</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">« Les ordinateurs sont le meilleur outil dont nous disposons pour inventer des choses et les mettre rapidement à la disposition du monde de manière à ce que d'autres humains puissent les comprendre. » Timoni West, Unity</p>
 
-### What is the goal?
+### Quel est l'objectif ?
 
 --- task ---
 
-What is the goal of your game, mission, or story?
+Quel est l'objectif de ton jeu, de ta mission ou de ton histoire ?
 
-It could be:
-- Complete a set of minigames and collecting all the coins
-- Talk to NPCs to find out who the thief was in a mystery story
-- Find the ingredients for a firework and then reward the Player with a Particle System
+Ça pourrait être :
+- Terminer une série de mini-jeux et collecter toutes les pièces
+- Parler aux PNJ pour découvrir qui était le voleur dans une histoire mystérieuse
+- Trouver les ingrédients nécessaires à la fabrication d'un feu d'artifice et récompenser le joueur avec un système de particules
 
 --- /task ---
 
-### Who is it for?
+### À qui s'adresse-t-il ?
 
 --- task ---
 
-Think about who you will make your project for (your **audience**).
+Réfléchis à la personne pour laquelle tu vas réaliser ton projet (ton **public**).
 
-- Do they play lots of games already?
-- What would they be looking for in a 3D world?
-- Why would they want to play your game?
+- Est-ce qu'ils jouent déjà beaucoup ?
+- Que chercheraient-ils dans un monde en 3D ?
+- Pourquoi voudraient-ils jouer à ton jeu ?
 
 --- /task ---
 
-### Game design or experience design
+### Game design ou experience design
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Lots of popular games are written with Unity including Among Us, Pokémon Go, Pikmin Bloom, Untitled Goose Game, Beat Saber, and Crossy Road. Game designers had to think about how they would make these games engaging for players. How did they do make sure players have **fun** whilst playing?</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Beaucoup de jeux populaires sont créés avec Unity, notamment Among Us, Pokémon Go, Pikmin Bloom, Untitled Goose Game, Beat Saber et Crossy Road. Les Game designers ont dû réfléchir à la manière de rendre ces jeux attrayants pour les joueurs. Comment ont-ils fait pour s'assurer que les joueurs **s'amusent** en jouant ?</p>
 
-![A strip of images showing a start screen, the camera, NPCs, and Player characters.](images/planning-questions.png)
+![Une bande d'images montrant un écran de démarrage, la caméra, les PNJ et les personnages du joueur.](images/planning-questions.png)
 
-Use your experience to design your game:
-- How will the player know how to start and what to do next?
-- What camera angle do you want?
-- What NPCs will you use, how will they move, and what is their personality?
-- How will the Player be controlled? How will they interact with NPCs and items?
-- How will you use scenery, animations, and sound effects to create the right atmosphere?
-- What are the important states and conditions for your game? What variables will you need to track these?
-- How will the player know when they have completed the game (by winning or losing or finding an ending)?
+Utilise ton expérience pour concevoir ton jeu :
+- Comment le joueur sait-il comment commencer et que faire ensuite ?
+- Quel angle de caméra veux-tu ?
+- Quels PNJ utiliseras-tu, comment se déplaceront-ils et quelle est leur personnalité ?
+- Comment le joueur sera-t-il contrôlé ? Comment interagiront-ils avec les PNJ et les objets ?
+- Comment vas-tu utiliser les décors, les animations et les effets sonores pour créer la bonne atmosphère ?
+- Quels sont les états et les conditions importants pour ton jeu ? De quelles variables auras-tu besoin pour les suivre ?
+- Comment le joueur saura-t-il qu'il a terminé le jeu (en gagnant, en perdant ou en trouvant une fin) ?
 
-### Get started
+### Commencer
 
 --- task ---
 
-**Choose:**
+**Choisir :**
 
-Open the project you have been working on during this Introduction to Unity path and create a new scene.
+Ouvre le projet sur lequel tu as travaillé pendant ce parcours d'introduction à Unity et crée une nouvelle scène.
 
-or
+ou
 
-Download the [Unity starter package](https://rpf.io/p/en/3d-adventure-go){:target="_blank"} to your computer. Choose a sensible location such as your Documents folder.
+Télécharge et décompresse le [package de démarrage Unity](https://rpf.io/p/en/3d-adventure-go){:target="_blank"} sur ton ordinateur. Choisis un emplacement judicieux, par exemple ton dossier Documents.
 
 --- collapse ---
 ---
-title: I don't have an existing project
+title: Je n'ai pas de projet existant
 ---
 
-If you have not completed the rest of the path, or are not able to open your previous project, you can download and import the [3D adventure](https://rpf.io/p/en/3d-adventure-go){:target=_blank} template package that contains a collection of useful assets.
+Si tu n'as pas terminé le reste du parcours, ou si tu ne peux pas ouvrir ton projet précédent, tu peux télécharger et importer le paquet de modèles [3D adventure](https://rpf.io/p/en/3d-adventure-go){:target=_blank} qui contient une collection d'assets utiles.
 
 --- /collapse ---
 
@@ -81,22 +81,22 @@ If you have not completed the rest of the path, or are not able to open your pre
 --- collapse ---
 
 ---
-title: Create a new scene
+title: Créer une nouvelle scène
 ---
 
-Go to the **File** menu and select **New Scene**. Select the `Basic (Built-in)` option and click **Create**.
+Va dans le menu **File** et sélectionne **New Scene**. Sélectionne l'option `Basic (Built-in)` et clique sur **Create**.
 
-![The New Scene pop-up window with Basic (Built-in) and Create highlighted.](images/new-scene-options.png)
+![La fenêtre contextuelle New Scene avec les options Basic (Built-in) et Create en surbrillance.](images/new-scene-options.png)
 
 --- /collapse ---
 
 --- /task ---
 
-### Unity basics
+### Bases d'Unity
 
 --- task ---
 
-Personalise the Unity Editor to create the most efficient environment for you to create your project.
+Personnalise l'éditeur Unity pour créer l'environnement le plus efficace pour la création de ton projet.
 
 [[[unity-customise-editor]]]
 
@@ -106,9 +106,9 @@ Personalise the Unity Editor to create the most efficient environment for you to
 
 --- task ---
 
-Think about how you can make your project with the Unity skills you have learnt. If there's anything that you haven't learnt yet then try and adjust your ideas so you will be able to build your project.
+Réfléchis à la façon dont tu peux réaliser ton projet avec les compétences Unity que tu as apprises. S'il y a quelque chose que tu n'as pas encore appris, essaie d'adapter tes idées pour construire ton projet.
 
-Note down things you don't know how to do yet so you can find out how to do them in future.
+Note les choses que tu ne sais pas encore faire pour pouvoir trouver comment les faire à l'avenir.
 
 --- /task ---
 
