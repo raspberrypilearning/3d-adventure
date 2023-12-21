@@ -9,7 +9,7 @@ Dit project wordt je aangeboden met steun van [Unity Technologies](https://unity
 Je project moet voldoen aan de **projectsamenvatting**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Een <span style="color: #0faeb0">virtuele wereld</span> is een computeromgeving waarin spelers spelobjecten kunnen verkennen en ermee kunnen communiceren, inclusief niet-spelerpersonages. A <span style="color: #0faeb0">visuele roman</span> is een computerspelgenre met een verhaal, karakterontwikkeling en spelerskeuzes.</p>
+Een <span style="color: #0faeb0">virtuele wereld</span> is een computeromgeving waarin spelers spelobjecten kunnen verkennen en ermee kunnen communiceren, inclusief niet-spelerpersonages. Een <span style="color: #0faeb0">visuele roman</span> is een computerspelgenre met een verhaal, karakterontwikkeling en spelerskeuzes.</p>
 
 Je gaat:
 + Je Unity vaardigheden gebruiken om een spelletje of ervaring te maken

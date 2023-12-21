@@ -79,6 +79,8 @@ Try these example projects to get ideas for what you could make. Think about how
 ![](images/scramble-trail.png){:width="300px"}
 + [The lost rock](https://raspberrypilearning.github.io/unity-webgl/TheLostRock/){:target='_blank'}.
 ![](images/lost-rock.png){:width="300px"}
++ [Star run](star-run.png){:target='_blank'}.
+![](images/star-run.png){:width="300px"}
 + [Home for dinner](https://raspberrypilearning.github.io/unity-webgl/HomeForDinner/){:target='_blank'}.
 ![](images/home-for-dinner.png){:width="300px"}
 + [Crossy rat](https://raspberrypilearning.github.io/unity-webgl/CrossyRat/){:target='_blank'}.
