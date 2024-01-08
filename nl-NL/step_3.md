@@ -117,6 +117,52 @@ Je hebt echt nuttige vaardigheden opgebouwd. Hier is een herinnering om je te he
 
 [[[unity-update-textmeshpro]]]
 
+--- collapse ---
+
+---
+title: Using text to finish your game
+---
+
+If you want to show a message when the player has completed your game, you can use a `TextMeshPro` object to do it.
+
+You will need to add a new canvas and some text that will display at the end of your game.
+
+Then you can use a similar approach to the Gamemaster NPC - setting the canvas as inactive at first and activating it when the player finishes the game.
+
+You could use your `Gamemaster` to do this, or a script on the player.
+
+Whichever script, you will have to add the `using TMPro;` line at the top.
+
+--- code ---
+---
+language: cs filename: line_numbers: true line_number_start: 1
+line_highlights: 4
+---
+using System.Collections; using System.Collections.Generic; using UnityEngine; using TMPro; --- /code ---
+
+You then need to add a variable to store the reference to the text in the script:
+
+--- code ---
+---
+language: cs filename: line_numbers: false line_number_start:
+line_highlights:
+---
+public TMP_Text winText;
+
+--- /code ---
+
+Finally, you need to be able to activate the text when the player completes the game using this line:
+
+--- code ---
+---
+language: cs filename: line_numbers: false line_number_start:
+line_highlights:
+---
+winText.SetActive(true);
+
+--- /code ---
+
+--- /collapse ---
 
 --- task ---
 
