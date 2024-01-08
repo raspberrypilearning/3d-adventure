@@ -9,7 +9,7 @@ Dit project wordt je aangeboden met steun van [Unity Technologies](https://unity
 Je project moet voldoen aan de **projectsamenvatting**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Een <span style="color: #0faeb0">virtuele wereld</span> is een computeromgeving waarin spelers spelobjecten kunnen verkennen en ermee kunnen communiceren, inclusief niet-spelerpersonages. A <span style="color: #0faeb0">visuele roman</span> is een computerspelgenre met een verhaal, karakterontwikkeling en spelerskeuzes.</p>
+Een <span style="color: #0faeb0">virtuele wereld</span> is een computeromgeving waarin spelers spelobjecten kunnen verkennen en ermee kunnen communiceren, inclusief niet-spelerpersonages. Een <span style="color: #0faeb0">visuele roman</span> is een computerspelgenre met een verhaal, karakterontwikkeling en spelerskeuzes.</p>
 
 Je gaat:
 + Je Unity vaardigheden gebruiken om een spelletje of ervaring te maken
@@ -72,8 +72,9 @@ Je project zou:
 
 Probeer deze voorbeeldprojecten om ideeën te krijgen voor wat je zou kunnen maken. Bedenk hoe de vaardigheden die je hebt geleerd zijn gecombineerd om deze games en avonturen te maken:
 
-+ [Scramble trail](https://scrambletrail.franksberry-pi.repl.co/){:target='_blank'}. ![](images/scramble-trail.png){:width="300px"}
++ [Scramble trail](https://raspberrypilearning.github.io/unity-webgl/ScrambleTrail/){:target='_blank'}. ![](images/scramble-trail.png){:width="300px"}
 + [The lost rock](https://raspberrypilearning.github.io/unity-webgl/TheLostRock/){:target='_blank'}. ![](images/lost-rock.png){:width="300px"}
++ [Star run](star-run.png){:target='_blank'}. ![](images/star-run.png){:width="300px"}
 + [Home for dinner](https://raspberrypilearning.github.io/unity-webgl/HomeForDinner/){:target='_blank'}. ![](images/home-for-dinner.png){:width="300px"}
 + [Crossy rat](https://raspberrypilearning.github.io/unity-webgl/CrossyRat/){:target='_blank'}. ![](images/crossy-rat.png){:width="300px"}
 + [Weather adventure](https://weather3dadventure.rpfilt.repl.co/){:target='_blank'}
