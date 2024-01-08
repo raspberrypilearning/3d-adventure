@@ -75,8 +75,9 @@ Ton projet pourrait :
 
 Essaie ces exemples de projets pour avoir des idées de ce que tu pourrais faire. Réfléchis à la façon dont les compétences que tu as apprises ont été combinées pour créer ces jeux et ces aventures :
 
-+ [Scramble trail](https://scrambletrail.franksberry-pi.repl.co/){:target='_blank'}. ![](images/scramble-trail.png){:width="300px"}
++ [Scramble trail](https://raspberrypilearning.github.io/unity-webgl/ScrambleTrail/){:target='_blank'}. ![](images/scramble-trail.png){:width="300px"}
 + [The lost rock](https://raspberrypilearning.github.io/unity-webgl/TheLostRock/){:target='_blank'}. ![](images/lost-rock.png){:width="300px"}
++ [Star run](star-run.png){:target='_blank'}. ![](images/star-run.png){:width="300px"}
 + [Home for dinner](https://raspberrypilearning.github.io/unity-webgl/HomeForDinner/){:target='_blank'}. ![](images/home-for-dinner.png){:width="300px"}
 + [Crossy rat](https://raspberrypilearning.github.io/unity-webgl/CrossyRat/){:target='_blank'}. ![](images/crossy-rat.png){:width="300px"}
 + [Weather adventure](https://weather3dadventure.rpfilt.repl.co/){:target='_blank'}
