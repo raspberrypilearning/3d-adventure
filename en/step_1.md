@@ -79,15 +79,15 @@ Try these example projects to get ideas for what you could make. Think about how
 ![](images/scramble-trail.png){:width="300px"}
 + [The lost rock](https://raspberrypilearning.github.io/unity-webgl/TheLostRock/){:target='_blank'}.
 ![](images/lost-rock.png){:width="300px"}
-+ [Star run](star-run.png){:target='_blank'}.
++ [Star run](https://raspberrypilearning.github.io/unity-webgl/StarRun/){:target='_blank'}.
 ![](images/star-run.png){:width="300px"}
 + [Home for dinner](https://raspberrypilearning.github.io/unity-webgl/HomeForDinner/){:target='_blank'}.
 ![](images/home-for-dinner.png){:width="300px"}
 + [Crossy rat](https://raspberrypilearning.github.io/unity-webgl/CrossyRat/){:target='_blank'}.
 ![](images/crossy-rat.png){:width="300px"}
-+ [Weather adventure](https://weather3dadventure.rpfilt.repl.co/){:target='_blank'}
++ [Weather adventure](https://raspberrypilearning.github.io/unity-webgl/Weather3DAdventure/){:target='_blank'}
 ![](images/weather-3d-adventure.png){:width="300px"}
-+ [Rat Queen's party](https://castle3dadventure.rpfilt.repl.co){:target='_blank'}
++ [Rat Queen's party](https://raspberrypilearning.github.io/unity-webgl/Castle3DAdventure/){:target='_blank'}
 ![](images/castle-3D-adventure.png){:width="300px"}
   
 To explore how these projects have been made, download and unzip the [Unity packages](https://rpf.io/p/en/3d-adventure-get){:target='_blank'} then import each one into an new 3D Unity project.
