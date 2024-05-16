@@ -74,7 +74,12 @@ Your project could:
 --- task ---
 
 Try these example projects to get ideas for what you could make. Think about how the skills you have learnt have been combined to make these games and adventures:
-  
+#### Featured community project 
+Check out this *awesome* project we saw at **Coolest Projects 2024**!
++ [Find the slimes](https://rebelred.itch.io/find-the-slimes){:target='_blank'}.
+![](images/find-the-slimes.png){:width="600px"}
+
+#### Other example projects
 + [Scramble trail](https://raspberrypilearning.github.io/unity-webgl/ScrambleTrail/){:target='_blank'}.
 ![](images/scramble-trail.png){:width="300px"}
 + [The lost rock](https://raspberrypilearning.github.io/unity-webgl/TheLostRock/){:target='_blank'}.
