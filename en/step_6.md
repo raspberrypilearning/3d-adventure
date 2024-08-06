@@ -16,7 +16,6 @@ Save these files to your preferred storage service (Google Drive, Dropbox, USB D
 
 You could also take a screenshot or make a video of your project. 
 
-You could also take a screenshot or make a video of your project. 
 
 --- task ---
 
